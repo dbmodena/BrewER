@@ -1,5 +1,5 @@
 # BrewER
-Giovanni Simonini, Luca Zecchini, Sonia Bergamaschi, Felix Naumann: "Entity Resolution On-Demand" (paper submitted to VLDB 2022)
+Giovanni Simonini, Luca Zecchini, Sonia Bergamaschi, Felix Naumann: "Entity Resolution On-Demand". Proceedings of the VLDB Endowment (PVLDB), vol. 15, n. 7, pp. 1506-1518 (2022)
 
 Code written using Python 3.
 
