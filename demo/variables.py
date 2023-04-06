@@ -38,7 +38,20 @@ datasets = {"beer": dict(),
                        "default_matching_function": "Ground Truth"},
             "funding": dict(),
             "notebook": dict(),
-            "usb": dict()
+            "usb": {"ds_path": data_dir_path + "usb_dataset.csv",
+                    "attributes": ["id", "name", "brand", "size_gb", "price"],
+                    "default_aggregation_function": "VOTE",
+                    "default_ordering_key": "price",
+                    "default_ordering_mode": "asc",
+                    "blocking_functions":
+                        {"SparkER Meta-Blocking":
+                             {"candidates_path": data_dir_path + "usb_candidates_sparker.pkl",
+                              "blocks_path": data_dir_path + "usb_blocks_sparker.pkl"}},
+                    "default_blocking_function": "SparkER Meta-Blocking",
+                    "matching_functions":
+                        {"None (Dirty)": {"gold_path": None},
+                         "Ground Truth": {"gold_path": data_dir_path + "usb_gold.csv"}},
+                    "default_matching_function": "Ground Truth"}
             }
 
 html_format = """
