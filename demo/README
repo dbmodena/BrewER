@@ -2,7 +2,7 @@ How to run the experiments on your own datasets:
 
 - In the data folder, upload the dataset and the gold CSV files (the latter one can be the effective ground truth or the output of your matching function), and the two PKL files for your blocking function:
     - "candidates" is the list of the tuples representing the id pairs;
-    - "blocks" is a list of lists, where these lists are simply the transitively closed blocks (i.e., the connected components in the blocking graph) to be considered in the filtering step - they are obtained from the candidates, so this file is just used to avoid repeating their computation).
+    - "blocks" is a list of lists, where these lists are simply the transitively closed blocks (i.e., the connected components in the blocking graph) to be considered in the filtering step - they can also be obtained from the candidate pairs on the fly.
 
 - In the "variables.py" file, insert the specific information about your dataset.
 
