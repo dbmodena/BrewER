@@ -17,3 +17,14 @@ If you find this code useful in your research, please consider citing our <a hre
       year      = {2022},
       doi       = {10.14778/3523210.3523226}
     }
+
+In the dedicated <a href="https://github.com/dbmodena/BrewER/tree/main/altosight_dataset/sigmod_2021_programming_contest">folder</a>, you can find the subsets used for the contest (X and Y datasets were already available on the contest website, while Z and E datasets have been used for the evaluation.
+
+In this case, you can reference our report:
+
+    @article{sigmodemcontests,
+      author    = {Sonia {Bergamaschi} and Xu {Chu} and Andrea {De Angelis} and Donatella {Firmani} and Peng {Li} and Maurizio {Mazzei} and Paolo {Merialdo} and Federico {Piai} and Giovanni {Simonini} and Renzhi {Wu} and Luca {Zecchini}},
+      title     = {{Experiences and Lessons Learned from the SIGMOD Entity Resolution Programming Contests}},
+      journal   = {{SIGMOD Record}},
+      year      = {2023},
+    }
