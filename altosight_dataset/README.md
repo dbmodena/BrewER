@@ -5,7 +5,7 @@ Here you can find the original raw version of the dataset about USB sticks provi
 Note that the id represents the unique identifier of the entity the record refers to (i.e., it identifies the cluster of matching records).
 The description of the product can appear in multiple languages and the price is expressed in different currencies.
 
-If you find this code useful in your research, please consider citing our <a href="https://doi.org/10.14778/3523210.3523226">paper</a>:
+If you find this dataset useful for your research, please consider citing our <a href="https://doi.org/10.14778/3523210.3523226">paper</a>:
 
     @article{brewer,
       author    = {Giovanni {Simonini} and Luca {Zecchini} and Sonia {Bergamaschi} and Felix {Naumann}},
