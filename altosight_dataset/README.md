@@ -18,7 +18,7 @@ If you find this code useful in your research, please consider citing our <a hre
       doi       = {10.14778/3523210.3523226}
     }
 
-In the dedicated <a href="https://github.com/dbmodena/BrewER/tree/main/altosight_dataset/sigmod_2021_programming_contest">folder</a>, you can find the subsets used for the contest (X and Y datasets were already available on the contest website, while Z and E datasets have been used for the evaluation.
+In the dedicated <a href="https://github.com/dbmodena/BrewER/tree/main/altosight_dataset/sigmod_2021_programming_contest">folder</a>, you can find the subsets used for the contest (X and Y datasets were made available on the contest website, while Z and E datasets were used for the evaluation).
 
 In this case, you can reference our report:
 
