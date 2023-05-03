@@ -7,7 +7,7 @@ The description of the product can appear in multiple languages and the price is
 
 If you find this code useful in your research, please consider citing our <a href="https://doi.org/10.14778/3523210.3523226">paper</a>:
 
-    @article{simonini2022brewer@pvldb,
+    @article{brewer,
       author    = {Giovanni {Simonini} and Luca {Zecchini} and Sonia {Bergamaschi} and Felix {Naumann}},
       title     = {{Entity Resolution On-Demand}},
       journal   = {{Proceedings of the VLDB Endowment (PVLDB)}},
@@ -22,7 +22,7 @@ In the dedicated <a href="https://github.com/dbmodena/BrewER/tree/main/altosight
 
 In this case, you can reference our report:
 
-    @article{sigmodemcontests,
+    @article{sigmodcontests,
       author    = {Sonia {Bergamaschi} and Xu {Chu} and Andrea {De Angelis} and Donatella {Firmani} and Peng {Li} and Maurizio {Mazzei} and Paolo {Merialdo} and Federico {Piai} and Giovanni {Simonini} and Renzhi {Wu} and Luca {Zecchini}},
       title     = {{Experiences and Lessons Learned from the SIGMOD Entity Resolution Programming Contests}},
       journal   = {{SIGMOD Record}},
