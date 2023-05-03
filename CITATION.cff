@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our article."
+authors:
+- family-names: "Simonini"
+  given-names: "Giovanni"
+  orcid: "https://orcid.org/0000-0002-3466-509X"
+- family-names: "Zecchini"
+  given-names: "Luca"
+  orcid: "https://orcid.org/0000-0002-4856-0838"
+- family-names: "Bergamaschi"
+  given-names: "Sonia"
+  orcid: "https://orcid.org/0000-0001-8087-6587"
+- family-names: "Naumann"
+  given-names: "Felix"
+  orcid: "https://orcid.org/0000-0002-4483-1389"
+title: "BrewER"
+url: "https://github.com/dbmodena/BrewER"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Simonini"
+    given-names: "Giovanni"
+    orcid: "https://orcid.org/0000-0002-3466-509X"
+  - family-names: "Zecchini"
+    given-names: "Luca"
+    orcid: "https://orcid.org/0000-0002-4856-0838"
+  - family-names: "Bergamaschi"
+    given-names: "Sonia"
+    orcid: "https://orcid.org/0000-0001-8087-6587"
+  - family-names: "Naumann"
+    given-names: "Felix"
+    orcid: "https://orcid.org/0000-0002-4483-1389"
+  doi: "10.14778/3523210.3523226"
+  journal: "Proceedings of the VLDB Endowment (PVLDB)"
+  start: 1506 # First page number
+  end: 1518 # Last page number
+  title: "Entity Resolution On-Demand"
+  issue: 7
+  volume: 15
+  year: 2022
