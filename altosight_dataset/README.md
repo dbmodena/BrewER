@@ -26,5 +26,5 @@ In this case, you can reference our report:
       author    = {Sonia {Bergamaschi} and Xu {Chu} and Andrea {De Angelis} and Donatella {Firmani} and Peng {Li} and Maurizio {Mazzei} and Paolo {Merialdo} and Federico {Piai} and Giovanni {Simonini} and Renzhi {Wu} and Luca {Zecchini}},
       title     = {{Experiences and Lessons Learned from the SIGMOD Entity Resolution Programming Contests}},
       journal   = {{SIGMOD Record}},
-      year      = {2023},
+      year      = {2023}
     }
