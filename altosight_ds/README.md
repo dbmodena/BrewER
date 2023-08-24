@@ -23,8 +23,12 @@ In the dedicated <a href="https://github.com/dbmodena/BrewER/tree/main/altosight
 In this case, you can reference our report:
 
     @article{sigmodcontests,
-      author    = {Sonia {Bergamaschi} and Xu {Chu} and Andrea {De Angelis} and Donatella {Firmani} and Peng {Li} and Maurizio {Mazzei} and Paolo {Merialdo} and Federico {Piai} and Giovanni {Simonini} and Renzhi {Wu} and Luca {Zecchini}},
+      author    = {Andrea {De Angelis} and Maurizio {Mazzei} and Federico {Piai} and Paolo {Merialdo} and Giovanni {Simonini} and Luca {Zecchini} and Sonia {Bergamaschi} and Donatella {Firmani} and Xu {Chu} and  Peng {Li} and  Renzhi {Wu}},
       title     = {{Experiences and Lessons Learned from the SIGMOD Entity Resolution Programming Contests}},
       journal   = {{SIGMOD Record}},
-      year      = {2023}
+      volume    = {52},
+      number    = {2},
+      pages     = {43--47},
+      year      = {2023},
+      doi       = {10.1145/3615952.3615965}
     }
