@@ -1,0 +1,456 @@
+#key=_id
+#rtable=POINTER
+#foreign_key_ltable=ltable.Label
+#foreign_key_rtable=rtable.Label
+#ltable=POINTER
+_id,ltable.Label,rtable.Label,ltable.BeerName,rtable.BeerName,gold
+48,A102,B11,Alaskan Imperial Red Ale (Pilot Series),Lagunitas Imperial Red Ale,0
+86,A102,B319,Alaskan Imperial Red Ale (Pilot Series),Swamp Head Sciaenhops Imperial Red Ale,0
+91,A102,B384,Alaskan Imperial Red Ale (Pilot Series),BottleTree Imperial Red Ale,0
+101,A1021,B1021,Indian Red Head,Catawba Valley Indian Head Red,1
+118,A1039,B799,Olde Richmond Batch No. 9 Red Ale,Engine House No. 9 Rowdy Dick Amber Ale,0
+121,A1041,B1041,Rocket City Red,Sawdust City Red Rocket Coffee Spiced Stout,0
+127,A1047,B1047,Sierra Amber Ale,Chy_e Sierra Amber Ale,1
+129,A1047,B1799,Sierra Amber Ale,Sierra Andina Alpamayo Amber Ale,0
+135,A1059,B1059,Legends Of The Bay Giant's Tomb,Legends of the Bay Giant_s Tomb,1
+137,A1059,B2770,Legends Of The Bay Giant's Tomb,Legends of the Bay Ghosts of Hope Island,0
+163,A1077,B2523,46 Star Oklahoma Amber Ale,The Civil Life Stevie_s 5 Star Amber Ale,0
+191,A11,B2045,Lagunitas Imperial Red Ale,Sick N Twisted Naughty Redhead Imperial Red Ale,0
+221,A11,B666,Lagunitas Imperial Red Ale,Pizza Port Rhino Chaser Imperial Red Ale,0
+222,A11,B848,Lagunitas Imperial Red Ale,Three Heads Buffalo Soul Jah Imperial Red Ale,0
+267,A1136,B766,Iron Mike's Amber Ale,Railway City Iron Spike Amber Ale,0
+308,A116,B1551,Alexander Keith's Red Amber Ale,Hollywood Beach Red Tide Amber Ale,0
+321,A116,B969,Alexander Keith's Red Amber Ale,Swashbuckler Red Sea Amber Ale,0
+347,A1175,B1175,Insane Mane Red Ale,White Lion Insane Mane Red Ale,1
+381,A1196,B1817,Brewmaster's Reserve Imperial Red Ale,Rusty Truck Stupiphany Imperial Red Ale,0
+390,A1196,B2559,Brewmaster's Reserve Imperial Red Ale,Ballast Point Tongue Buckler Imperial Red Ale - Bourbon Barrel Aged,0
+391,A1196,B2788,Brewmaster's Reserve Imperial Red Ale,Renegade Scarlett Letter Imperial Red Ale,0
+403,A1196,B3472,Brewmaster's Reserve Imperial Red Ale,Rock Bottom Orland Park King of Hearts Imperial Red Ale,0
+435,A1203,B989,Dread Double Red Ale,Wildcard Double Down Imperial Red Ale,0
+450,A1225,B1654,All American Red Ale,Saimaan Brewer_s Special American Red Ale,0
+454,A1225,B3054,All American Red Ale,Stadin American Red Ale,0
+494,A1236,B2834,Bourbon Barrel Aged Horus Imperial Red,Riverbend Barrel Aged Right Said Red,0
+504,A1236,B4288,Bourbon Barrel Aged Horus Imperial Red,Lompoc Bourbon Barrel Aged Old Tavern Rat,0
+507,A1236,B524,Bourbon Barrel Aged Horus Imperial Red,Legacy Bourbon Barrel Hedonism Red,0
+514,A1237,B1854,Bulleit Bourbon Barrel Aged G'Knight,MadTree Bourbon Barrel Aged Happy Amber,0
+520,A1237,B4288,Bulleit Bourbon Barrel Aged G'Knight,Lompoc Bourbon Barrel Aged Old Tavern Rat,0
+521,A1237,B4299,Bulleit Bourbon Barrel Aged G'Knight,Figure Eight Bourbon Barrel Aged Jumbo Love,0
+527,A124,B124,American Red Ale,Americas American Red Ale,1
+583,A1244,B3502,Red Dragon Imperial Red Ale,Proof Abandoned Planet Imperial Red Ale,0
+629,A1255,B3431,Crater Lake Amber Ale,Flathead Lake Dock Start Amber Ale,0
+641,A1267,B1684,San Marcos Red Amber Ale,Fish Rock Red Emperor Amber Ale,0
+660,A1269,B1959,Big Red Ale,Big Bear Lake Sidewinder Red Ale,0
+678,A1299,B1824,Blood On The Blade Red IPA,Bacchus / Burrow Bloodhound Blood Red IPA,0
+688,A1307,B53,Mad Anthony Muddy River Amber Ale,Mad River Jamaica Red Ale,0
+702,A132,B2523,The Unforgiven Amber Ale,The Civil Life Stevie_s 5 Star Amber Ale,0
+716,A1340,B2621,The Live Bait Amber Ale,BNS The Hills Have Eyes Amber Ale,0
+767,A1394,B516,Clifford The Big Red Ale,Big Choice Disconnected Red Ale,0
+809,A1413,B1413,Hooligan Amber Ale,Bentley Hooligan Amber Ale,1
+840,A143,B11,Double Dread Imperial Red Ale,Lagunitas Imperial Red Ale,0
+849,A143,B176,Double Dread Imperial Red Ale,406 Imperial Red Ale,0
+862,A143,B2559,Double Dread Imperial Red Ale,Ballast Point Tongue Buckler Imperial Red Ale - Bourbon Barrel Aged,0
+865,A143,B2906,Double Dread Imperial Red Ale,Kinetic Infrared Imperial Red Ale,0
+869,A143,B3094,Double Dread Imperial Red Ale,Scuttlebutt Mateo Loco Imperial Red Ale,0
+870,A143,B31,Double Dread Imperial Red Ale,Ballast Point Tongue Buckler Imperial Red Ale,0
+907,A1452,B1484,Molly American Red Ale,Genesee Brew House American Red Ale,0
+912,A1452,B2565,Molly American Red Ale,Big Time Lift Ticket American Red Ale,0
+924,A1455,B2295,Mountian Goat Rare Breed India Red Ale,Hammond River Red Coat India Red Ale,0
+945,A146,B589,Aorta Ale (Double Red Ale),Destihl Barrel Aged Deadhead Double Red Ale,0
+946,A146,B989,Aorta Ale (Double Red Ale),Wildcard Double Down Imperial Red Ale,0
+959,A1475,B1475,Barbarian Red Ale,Barbarian Red Ale,1
+972,A1477,B176,Deranger Imperial Red Ale,406 Imperial Red Ale,0
+983,A1477,B2788,Deranger Imperial Red Ale,Renegade Scarlett Letter Imperial Red Ale,0
+985,A1477,B2906,Deranger Imperial Red Ale,Kinetic Infrared Imperial Red Ale,0
+988,A1477,B2971,Deranger Imperial Red Ale,Ale Mania Imperial Red Ale,0
+992,A1477,B3167,Deranger Imperial Red Ale,Brannon_s Deputation Imperial Red Ale,0
+1007,A1479,B1479,Eldred Rock Amber,Haines Eldred Rock Amber,1
+1016,A1485,B2171,Texas Red Amber Ale,William Street Red Sky Amber Ale,0
+1032,A1490,B2433,Mount Washington Organic Amber Ale,Outpost Mr. Grain Jeans Organic Amber Ale,0
+1034,A1493,B1493,Revenuers Red Ale,Catawba Valley Revenuers Red Ale,1
+1036,A1498,B2986,Twisted Stick Amber Ale,Sick N Twisted Pleasure Victim Amber Ale,0
+1056,A1510,B2025,Fresh Hopped Harvest Ale,10 Barrel Crosby Farms Harvest Fresh Hop Ale,0
+1082,A1520,B692,Big Bear Amber Ale,Big Horn Buttface Amber Ale,0
+1099,A1534,B1838,Frog Island Amber Ale,Heavy Seas Desert Island Series American Honey Amber Ale,0
+1110,A1541,B1541,Radeau Red Ale,Coopers Cave Radeau Red Ale,1
+1114,A1543,B1327,Barrel Aged Red Ale,Ballast Point Calico Amber Ale - Rum Barrel Aged,0
+1122,A1543,B2834,Barrel Aged Red Ale,Riverbend Barrel Aged Right Said Red,0
+1125,A1543,B3171,Barrel Aged Red Ale,Barley_s Barrel Aged Ulysses Imperial Red Ale,0
+1192,A1606,B2906,Arthur's Imperial Red Ale,Kinetic Infrared Imperial Red Ale,0
+1194,A1606,B2951,Arthur's Imperial Red Ale,Two Brothers Revelry Imperial Red Ale,0
+1203,A1606,B3502,Arthur's Imperial Red Ale,Proof Abandoned Planet Imperial Red Ale,0
+1225,A1618,B969,Sea Spray Amber Ale,Swashbuckler Red Sea Amber Ale,0
+1234,A1623,B124,Morrisons American Red Ale,Americas American Red Ale,0
+1305,A1641,B1010,Red Rocket Amber Ale,Red Duck Amber Ale,0
+1309,A1641,B1641,Red Rocket Amber Ale,Third Base Red Rocket Amber Ale,1
+1317,A1641,B3419,Red Rocket Amber Ale,Blue Cat Red Toad Amber Ale,0
+1321,A1641,B506,Red Rocket Amber Ale,Liberty Street Red Glare Amber Ale,0
+1369,A1667,B4216,Wasatch 50th Park City Golden Anniversary Ale,Golden City Centurion Barleywine Ale,0
+1370,A1668,B1668,Rip Saw Red,Pints Rip Saw Red,1
+1398,A1669,B4093,Bourbon Barrel Aged Panama Red Ale,AleSmith Old Numbskull - Bourbon Barrel Aged,0
+1416,A1681,B1407,Barrel Aged Imperial Red,Imperial Oak Barrel Aged Odin_s Beard,0
+1419,A1681,B2431,Barrel Aged Imperial Red,Intuition Barrel Aged Riverside Red,0
+1422,A1681,B2806,Barrel Aged Imperial Red,Kettle House Bourbon Barrel Road Rash Imperial Red Ale,0
+1443,A1684,B269,Red Emperor Amber Ale,Fox and Hound Red Fox Amber Ale,0
+1455,A1693,B1693,River Otter Ale,Sacramento River Otter Ale,1
+1487,A172,B1748,Red Rock Amber Ale,Slanted Rock Iron Butt Red Ale,0
+1497,A172,B2716,Red Rock Amber Ale,Elk Mountain Rock Slide Amber Ale,0
+1525,A1734,B1643,Rabbit Punch Irish Red Ale,300 Suns Rabbit Mountain Red Ale,0
+1543,A1746,B1485,Big V Amber Ale,Big Texan Texas Red Amber Ale,0
+1544,A1746,B1520,Big V Amber Ale,Big Bear Mountain Orange Blossom Amber Ale,0
+1549,A1746,B2728,Big V Amber Ale,Heinzelmannchen Big Amber Gnome Ale,0
+1552,A1746,B3996,Big V Amber Ale,Big Axe Maple Wheat Amber Ale,0
+1579,A176,B2242,Imperial Red Ale,ShuBrew Heart and Sole Imperial Red Ale,0
+1621,A1764,B1706,Red's Heaven 15th Anniversary Imperial Red Ale,Knee Deep McCarthy_s Bane Imperial Red Ale,0
+1655,A1764,B412,Red's Heaven 15th Anniversary Imperial Red Ale,Austin Beerworks Battle Axe Imperial Red Ale,0
+1661,A1769,B1769,Rock Steady Red,Acoustic Rock Steady Red Cider,1
+1694,A1777,B2971,Batch 200 _ Olympus Mons Imperial Red Ale,Ale Mania Imperial Red Ale,0
+1695,A1777,B3094,Batch 200 _ Olympus Mons Imperial Red Ale,Scuttlebutt Mateo Loco Imperial Red Ale,0
+1697,A1777,B3138,Batch 200 _ Olympus Mons Imperial Red Ale,Edge Imperial Red Ale &#40;Spring Seasonal&#41;,0
+1711,A1777,B848,Batch 200 _ Olympus Mons Imperial Red Ale,Three Heads Buffalo Soul Jah Imperial Red Ale,0
+1732,A1803,B1803,Jazz Beer Tarraco Amber,Jazz Beer Tarraco Amber,1
+1771,A1817,B2045,Stupiphany Imperial Red Ale,Sick N Twisted Naughty Redhead Imperial Red Ale,0
+1795,A1817,B36,Stupiphany Imperial Red Ale,AleSmith YuleSmith &#40;Winter&#41; Imperial Red Ale,0
+1822,A183,B199,6th Anniversary Ale (Dirty Hippie Imperial Red Ale),Brew Bus Detour Series: Rollin Dirty Red Ale - Wood Aged,0
+1827,A183,B2344,6th Anniversary Ale (Dirty Hippie Imperial Red Ale),Tumbledown Imp Imperial Red Ale,0
+1837,A183,B2951,6th Anniversary Ale (Dirty Hippie Imperial Red Ale),Two Brothers Revelry Imperial Red Ale,0
+1882,A1838,B566,Desert Island Series: American Honey Amber Ale,Granville Island Gastown Amber Ale,0
+1936,A1865,B1865,Heatwave Red Ale,La Quinta Brewing Co. Heatwave Red Ale,1
+1938,A1873,B1873,Royal Amber Ale,Kalamazoo Royal Amber Ale,1
+1943,A1880,B1634,Ruby River Ruby Red Ale,Pine Creek River Valley Red Ale,0
+1952,A1880,B3429,Ruby River Ruby Red Ale,Pokertree Red Earl Ruby Ale,0
+1987,A189,B2559,Smuttynose Kindest Find Imperial Red Ale,Ballast Point Tongue Buckler Imperial Red Ale - Bourbon Barrel Aged,0
+1989,A189,B2806,Smuttynose Kindest Find Imperial Red Ale,Kettle House Bourbon Barrel Road Rash Imperial Red Ale,0
+1992,A189,B2951,Smuttynose Kindest Find Imperial Red Ale,Two Brothers Revelry Imperial Red Ale,0
+1997,A189,B3167,Smuttynose Kindest Find Imperial Red Ale,Brannon_s Deputation Imperial Red Ale,0
+2000,A189,B3472,Smuttynose Kindest Find Imperial Red Ale,Rock Bottom Orland Park King of Hearts Imperial Red Ale,0
+2026,A1903,B2035,Big Axe Red Ale,Big Spruce Ready Yer Knot... Regatta Red Ale,0
+2035,A1903,B931,Big Axe Red Ale,Big Island Red Giant Ale,0
+2056,A1921,B2778,Red Dragon Smoked Amber Ale,Kilted Dragon Bonnie Heather Amber Ale,0
+2059,A1921,B376,Red Dragon Smoked Amber Ale,Baird Smoked Amber Ale,0
+2064,A1924,B1389,Main Street Amber Ale,Thorn Street Smugglers Cove Agave Amber Ale,0
+2073,A1928,B599,Rocky Point Red Ale,Alley Kat Rocky Mountain Red Ale &#40;The Cheesecake Cafe&#41;,0
+2083,A1938,B1938,Dream Of The 90's,Prohibition Pig Dream of the 90s,1
+2141,A195,B195,Peak Organic The Maple Collaboration,Peak Organic The Maple Collaboration,1
+2147,A1950,B3710,Double Red Ale,Midnight Sun Unite Double Red Hot Ale &#40;2015&#41;,0
+2153,A1955,B1955,Poor Richard's Ale,21st Amendment Poor Richards Ale,1
+2182,A1996,B3769,S:t Eriks Unite Red Ale,Daytona Beach FL Wildflower Unite Red Ale,0
+2202,A2032,B1225,Bushfire American Red,Granite Falls Bushfire American Red Ale,1
+2220,A205,B1655,Rock Bottom Red Ale,Rock Bottom La Jolla Ragtop Red Ale,0
+2260,A2051,B2906,Red Hopper (Imperial Red Ale),Kinetic Infrared Imperial Red Ale,0
+2267,A2051,B3167,Red Hopper (Imperial Red Ale),Brannon_s Deputation Imperial Red Ale,0
+2271,A2051,B3502,Red Hopper (Imperial Red Ale),Proof Abandoned Planet Imperial Red Ale,0
+2277,A2051,B495,Red Hopper (Imperial Red Ale),Worthy Eruption Imperial Red Ale,0
+2293,A2072,B107,Merry Prankster Imperial Red Ale,Marble Imperial Red Ale,0
+2310,A2072,B2344,Merry Prankster Imperial Red Ale,Tumbledown Imp Imperial Red Ale,0
+2388,A2107,B2344,C N Red Imperial Red Ale,Tumbledown Imp Imperial Red Ale,0
+2396,A2107,B2906,C N Red Imperial Red Ale,Kinetic Infrared Imperial Red Ale,0
+2401,A2107,B31,C N Red Imperial Red Ale,Ballast Point Tongue Buckler Imperial Red Ale,0
+2419,A2111,B1573,Old Cascade Amber Ale,Central Coast Old Mission Amber Ale,0
+2427,A2114,B2000,Single Hop #3 Amber Ale W/ Citra,Hill Farmstead Amarillo Single Hop Pale Ale,0
+2428,A2114,B226,Single Hop #3 Amber Ale W/ Citra,Lancaster Hop Buggy Amber Ale,0
+2475,A2141,B1087,Mountain City Amber Ale,Colorado Mountain Ole 59er Amber Ale,0
+2490,A2141,B590,Mountain City Amber Ale,Fin City Jackspot Amber Ale,0
+2497,A2151,B1023,Channary Imperial Red Ale,Fulton The Libertine Imperial Red Ale - Heaven Hill Rye Whiskey Barrel Aged,0
+2524,A2151,B2951,Channary Imperial Red Ale,Two Brothers Revelry Imperial Red Ale,0
+2584,A2181,B2565,Clifford's Big Red Ale,Big Time Lift Ticket American Red Ale,0
+2588,A2181,B931,Clifford's Big Red Ale,Big Island Red Giant Ale,0
+2593,A2182,B1141,Red Dirt Imperial Red Ale,Laguna Beach Grateful Red Imperial Red Ale,0
+2611,A2182,B2559,Red Dirt Imperial Red Ale,Ballast Point Tongue Buckler Imperial Red Ale - Bourbon Barrel Aged,0
+2624,A2182,B3472,Red Dirt Imperial Red Ale,Rock Bottom Orland Park King of Hearts Imperial Red Ale,0
+2627,A2182,B36,Red Dirt Imperial Red Ale,AleSmith YuleSmith &#40;Winter&#41; Imperial Red Ale,0
+2655,A2189,B2189,Bitter Orange Blossom,I & I Bitter Orange Blossom,1
+2659,A2201,B2201,Cow Catcher Red,Mountain Town Cow Catcher Red Ale,1
+2682,A2237,B666,Port Chester Red Ale,Pizza Port Rhino Chaser Imperial Red Ale,0
+2688,A2243,B2369,Rabbit Mountain Red Ale,Figueroa Mountain / Pizza Port Shark Lips Imperial Red Ale,0
+2696,A2271,B2271,Big Red Balls,Hillcrest Big Red Balls,1
+2700,A2275,B4001,Freedom Bridge Amber Ale,Bridge Ambleside Amber Ale - Pomegranate & Galena Hops,0
+2745,A2301,B1070,Arsenal Imperial Red Ale,Wynwood Fox Imperial Red Ale,0
+2758,A2301,B2182,Arsenal Imperial Red Ale,Kern River Dirty Hippie Imperial Red Ale,0
+2796,A2306,B2559,Bourbon Barrel Red Oak Ale,Ballast Point Tongue Buckler Imperial Red Ale - Bourbon Barrel Aged,0
+2815,A2318,B2318,Blarney Rock Irish Ale,Rockyard Blarney Rock Irish Ale,1
+2831,A2346,B199,Brew Kahuna NW Red Ale,Brew Bus Detour Series: Rollin Dirty Red Ale - Wood Aged,0
+2852,A2349,B2182,Tst Brw 01 - Imperial Red Ale,Kern River Dirty Hippie Imperial Red Ale,0
+2888,A2350,B1613,Fire Brew Red Ale,Conshohocken Hale Fire Red Ale,0
+2921,A2392,B2392,My Hoppy Valentine,Excel My Hoppy Valentine,1
+2923,A2395,B1543,Bourbon Barrel Aged Redrum,Aspen Bourbon Barrel Aged Conundrum Red Ale,0
+3008,A2431,B1163,Barrel Aged Riverside Red,Blue Pants Big & Tall #2: Barrel Aged Belgian Red,0
+3023,A2433,B1199,Mr. Grain Jeans Organic Amber Ale,Squatters Respect Your Mother Organic Amber Ale,0
+3070,A2455,B1023,Bourbon Barrel Ro Shampo Imperial Red Ale,Fulton The Libertine Imperial Red Ale - Heaven Hill Rye Whiskey Barrel Aged,0
+3078,A2455,B154,Bourbon Barrel Ro Shampo Imperial Red Ale,Cape Cod Bourbon Barrel Red,0
+3086,A2455,B2045,Bourbon Barrel Ro Shampo Imperial Red Ale,Sick N Twisted Naughty Redhead Imperial Red Ale,0
+3097,A2455,B2788,Bourbon Barrel Ro Shampo Imperial Red Ale,Renegade Scarlett Letter Imperial Red Ale,0
+3101,A2455,B293,Bourbon Barrel Ro Shampo Imperial Red Ale,Lavery Imperial Red Ale &#40;IRA&#41;,0
+3116,A2455,B354,Bourbon Barrel Ro Shampo Imperial Red Ale,Spring House Atomic Raygun Imperial Red Ale,0
+3125,A2455,B524,Bourbon Barrel Ro Shampo Imperial Red Ale,Legacy Bourbon Barrel Hedonism Red,0
+3148,A2465,B1405,Mountain Series: Love Rhino (Imperial Red Ale),Cigar City Cold Brew Series - Red Ale,0
+3165,A2465,B2344,Mountain Series: Love Rhino (Imperial Red Ale),Tumbledown Imp Imperial Red Ale,0
+3175,A2465,B2906,Mountain Series: Love Rhino (Imperial Red Ale),Kinetic Infrared Imperial Red Ale,0
+3178,A2465,B2951,Mountain Series: Love Rhino (Imperial Red Ale),Two Brothers Revelry Imperial Red Ale,0
+3199,A2465,B657,Mountain Series: Love Rhino (Imperial Red Ale),Madhouse Venture Series Oak Aged Imperial Red,0
+3209,A2476,B269,Buck And Ball Double Amber Ale,Fox and Hound Red Fox Amber Ale,0
+3228,A2495,B2495,Fullers Traitors' Gate,Fuller_s Traitor_s Gate,1
+3243,A2512,B1654,3 Sisters American Red Ale,Saimaan Brewer_s Special American Red Ale,0
+3247,A2512,B3054,3 Sisters American Red Ale,Stadin American Red Ale,0
+3253,A2512,B507,3 Sisters American Red Ale,Radiant Pig Gangster Duck American Red Ale,0
+3254,A2512,B529,3 Sisters American Red Ale,Black Shirt American India Red Ale,0
+3261,A2523,B2523,5 Star Amber Ale,The Civil Life Stevie_s 5 Star Amber Ale,1
+3262,A2523,B2564,5 Star Amber Ale,Blue Star Apache Amber Ale,0
+3263,A2526,B476,Easy Amber Ale,Upland Easy Chair Amber Ale,0
+3269,A2539,B2539,Shirt Tail Amber,Iron Hill Shirt Tail Amber,1
+3289,A2559,B1477,Barrel Aged Imperial Red Ale,Laurelwood Organic Deranger Imperial Red Ale,0
+3377,A259,B230,Red Rose Amber Ale,Upland Rad Red Amber Ale,0
+3387,A259,B969,Red Rose Amber Ale,Swashbuckler Red Sea Amber Ale,0
+3389,A2592,B2592,Arrow Point Amber,Bainbridge Island Arrow Point Amber,1
+3394,A2606,B1248,Red Rock Opie Red Ale,Council Rock Sleeping Lion Red Ale,0
+3431,A2630,B3812,Brass Ale Honey Amber,Salty Nut Bee Transfixed Honey Amber Ale,0
+3439,A2636,B1854,Broadhead Bourbon Barrel Aged Red,MadTree Bourbon Barrel Aged Happy Amber,0
+3442,A2636,B2559,Broadhead Bourbon Barrel Aged Red,Ballast Point Tongue Buckler Imperial Red Ale - Bourbon Barrel Aged,0
+3450,A2636,B357,Broadhead Bourbon Barrel Aged Red,Flat 12 Barrel Aged Moustache Ride Red,0
+3464,A2640,B2640,Sons Of Anarchy Amber Ale,Sudwerk Sons Of Anarchy Amber Ale,1
+3475,A2648,B311,Killer Red Fresh Hop India Red Ale,8 Wired Tall Poppy India Red Ale,0
+3485,A2648,B535,Killer Red Fresh Hop India Red Ale,Central City Red Racer India Style Red Ale,0
+3491,A2667,B3843,Blue Bridge Amber Dry Hopped,Winthrop Double Dry Hopped Amber,0
+3497,A267,B2449,Panama Limited Red Ale,Flossmoor Station Barrel Aged Panama Limited Red Ale,0
+3516,A269,B1485,Red Fox Amber Ale,Big Texan Texas Red Amber Ale,0
+3559,A2724,B2724,Hearthstone Red Rye Ale,Hearthstone Red Rye Ale,1
+3568,A2735,B2735,British Knight Scotch Red Ale,Oskar Blues British Knight Scotch Red Ale,1
+3587,A2753,B735,Extra Special Red Ale,Ecliptic Phobos Extra Red Ale,0
+3588,A2757,B2757,Summer Session Ale,Aqula Summer Session Ale,1
+3598,A2759,B2512,Aiken American Red Pale Ale,Wild Ride 3 Sisters American Red Ale,0
+3603,A2759,B347,Aiken American Red Pale Ale,Blue Heron Corey_s American Pale Ale &#40;C.A.P.A.&#41;,0
+3625,A278,B278,Real McCoy Amber Ale,Mammoth Real McCoy Amber Ale,1
+3628,A2786,B458,Spencer Creek Amber Ale,Ruby Mountain Angel Creek Amber Ale,0
+3634,A2800,B2800,Willimantic Riverfest Red,Willimantic Riverfest Red Ale,1
+3641,A2806,B2806,Road Rash Red,Kettle House Bourbon Barrel Road Rash Imperial Red Ale,0
+3644,A2813,B2434,Oatmeal Raisin Cookie Ale,Aftershock Oatmeal Raisin Cookie Ale,0
+3645,A2816,B304,Hurricane Alley Amber Ale,Charleville Tornado Alley Amber Ale,0
+3671,A2847,B199,Mermaid's Red Ale - Bourbon Oak Aged,Brew Bus Detour Series: Rollin Dirty Red Ale - Wood Aged,0
+3741,A2903,B2903,Red Curry Ale,Hideout Red Curry Ale,1
+3750,A292,B4369,Great Lakes Independence Ale,Amsterdam X Sawdust City X Great Lakes X Indie Ale Barley Wine &#40;Oak&#41;,0
+3756,A293,B11,Lavery Imperial Red Ale,Lagunitas Imperial Red Ale,0
+3759,A293,B1477,Lavery Imperial Red Ale,Laurelwood Organic Deranger Imperial Red Ale,0
+3763,A293,B1732,Lavery Imperial Red Ale,Oak Creek King Crimson Imperial Red Ale,0
+3769,A293,B2242,Lavery Imperial Red Ale,ShuBrew Heart and Sole Imperial Red Ale,0
+3780,A293,B2951,Lavery Imperial Red Ale,Two Brothers Revelry Imperial Red Ale,0
+3781,A293,B2971,Lavery Imperial Red Ale,Ale Mania Imperial Red Ale,0
+3809,A2946,B2946,The Gentle Mongoose,Holy City The Gentle Mongoose,1
+3813,A295,B493,Flying Monkey Amber Ale,Flying Monkeys Amber Ale,0
+3814,A2952,B1087,Hoppy Amber Ale (Mountain Series),Colorado Mountain Ole 59er Amber Ale,0
+3846,A2962,B3947,Jurassic Duck Amber Ale (dry Hopped With Mosaic),Nighthawk 16-Hour Dry Hopped Amber,0
+3855,A2967,B174,Big Red Hoppy Barn,21st Amendment Big Hoppy Red Bird,0
+3872,A2971,B2182,Ale Mania Imperial Red Ale,Kern River Dirty Hippie Imperial Red Ale,0
+3875,A2971,B2344,Ale Mania Imperial Red Ale,Tumbledown Imp Imperial Red Ale,0
+3893,A2971,B3502,Ale Mania Imperial Red Ale,Proof Abandoned Planet Imperial Red Ale,0
+3899,A2971,B495,Ale Mania Imperial Red Ale,Worthy Eruption Imperial Red Ale,0
+3916,A2997,B1336,Sequoia American Amber Ale,Aarhus Cains Triple A American Amber Ale,0
+3921,A2997,B2580,Sequoia American Amber Ale,Canal Park General Sterling Price American Amber Ale - Centennial,0
+3951,A3009,B1244,Imperial Moustache Red Ale,Phillips Double Dragon Imperial Red Ale,0
+3991,A3009,B848,Imperial Moustache Red Ale,Three Heads Buffalo Soul Jah Imperial Red Ale,0
+4017,A3012,B869,Rock River Red Ale,Boxing Rock Temptation Red Ale,0
+4022,A3016,B1242,Street Cred India Rye Red Ale,Good People Stepchild Belgian India Red Ale,0
+4041,A302,B302,Boohai Red Ale,Crazy Mountain Boohai Red Ale &#40;Kura Koa&#41;,1
+4050,A3029,B3029,Ise Kadoya Amber Ale,Ise Kadoya Amarillo Amber Ale,1
+4066,A303,B2182,Ro Shampo Imperial Red Ale,Kern River Dirty Hippie Imperial Red Ale,0
+4073,A303,B2559,Ro Shampo Imperial Red Ale,Ballast Point Tongue Buckler Imperial Red Ale - Bourbon Barrel Aged,0
+4138,A3073,B3073,Regimental 80 Scottish Ale,Crooked Eye Regimental 80 Scottish Ale,1
+4166,A31,B2242,Tongue Buckler - Imperial Red Ale,ShuBrew Heart and Sole Imperial Red Ale,0
+4192,A31,B495,Tongue Buckler - Imperial Red Ale,Worthy Eruption Imperial Red Ale,0
+4195,A31,B848,Tongue Buckler - Imperial Red Ale,Three Heads Buffalo Soul Jah Imperial Red Ale,0
+4198,A3113,B3113,MovAmber Moustache Ale,Bull City Movamber Moustache Ale,1
+4206,A3119,B3119,Unite Red Rye Ale,Pike Unite Red Rye Ale,1
+4207,A3119,B3710,Unite Red Rye Ale,Midnight Sun Unite Double Red Hot Ale &#40;2015&#41;,0
+4225,A3130,B1536,Red 88 Imperial Amber Ale,Yukon You Only Live Once Imperial Red Ale,0
+4318,A3138,B31,Imperial Red Ale (Spring Seasonal),Ballast Point Tongue Buckler Imperial Red Ale,0
+4365,A3167,B1536,Deputation Imperial Red Ale,Yukon You Only Live Once Imperial Red Ale,0
+4393,A3167,B3472,Deputation Imperial Red Ale,Rock Bottom Orland Park King of Hearts Imperial Red Ale,0
+4395,A3167,B354,Deputation Imperial Red Ale,Spring House Atomic Raygun Imperial Red Ale,0
+4408,A317,B1484,Ruby Red American Ale,Genesee Brew House American Red Ale,0
+4423,A317,B529,Ruby Red American Ale,Black Shirt American India Red Ale,0
+4446,A3171,B2559,Ulysses Imperial Red Ale,Ballast Point Tongue Buckler Imperial Red Ale - Bourbon Barrel Aged,0
+4447,A3171,B2788,Ulysses Imperial Red Ale,Renegade Scarlett Letter Imperial Red Ale,0
+4473,A3175,B1754,Phobos Single Hop Red Ale,Iron Horse Fresh Hop Imperial Red Ale,0
+4499,A3211,B1708,Bonehead Red Bourbon Barrel Aged Imperial Red,Andersonville Bourbon Barrel Aged Sour Gangster,0
+4551,A3226,B1477,Sledgehammer Imperial Red Ale,Laurelwood Organic Deranger Imperial Red Ale,0
+4573,A3226,B2971,Sledgehammer Imperial Red Ale,Ale Mania Imperial Red Ale,0
+4576,A3226,B3138,Sledgehammer Imperial Red Ale,Edge Imperial Red Ale &#40;Spring Seasonal&#41;,0
+4585,A3226,B4029,Sledgehammer Imperial Red Ale,Anacapa Riptide Imperial Red Ale,0
+4597,A3251,B3251,Freedom Soho Red,Freedom Soho Red,1
+4606,A327,B1810,Hoppy Face Amber Ale,2nd Story Hoppy New Year Amber Ale,0
+4618,A3288,B1327,Buffalo Trace Bourbon Barrel Aged Amber Ale,Ballast Point Calico Amber Ale - Rum Barrel Aged,0
+4622,A3288,B1830,Buffalo Trace Bourbon Barrel Aged Amber Ale,Bull & Barrel Session Style - Amber Ale,0
+4630,A3288,B3171,Buffalo Trace Bourbon Barrel Aged Amber Ale,Barley_s Barrel Aged Ulysses Imperial Red Ale,0
+4634,A3288,B367,Buffalo Trace Bourbon Barrel Aged Amber Ale,Barrel Trolley Amber Ale,0
+4648,A3290,B2607,"The ""Ginger"" A Red Ale",The Beer Company Wyatt Earp Red Ale,0
+4657,A3293,B167,Fresh Hop Red,Laurelwood Fresh Hop Free Range Red &#40;Amarillo&#41;,0
+4659,A3293,B2203,Fresh Hop Red,Ice Harbor Double Red Ale - Fresh Hop,0
+4705,A3354,B1838,Aqula American Amber Ale,Heavy Seas Desert Island Series American Honey Amber Ale,0
+4729,A3370,B107,Roundabout Imperial Red Ale,Marble Imperial Red Ale,0
+4746,A3370,B2344,Roundabout Imperial Red Ale,Tumbledown Imp Imperial Red Ale,0
+4748,A3370,B2367,Roundabout Imperial Red Ale,Peter Bs Sum Of Hours Imperial Red Ale,0
+4766,A3370,B36,Roundabout Imperial Red Ale,AleSmith YuleSmith &#40;Winter&#41; Imperial Red Ale,0
+4768,A3370,B4029,Roundabout Imperial Red Ale,Anacapa Riptide Imperial Red Ale,0
+4808,A3419,B259,Red Toad Amber Ale,Baird Red Rose Amber Ale,0
+4812,A3419,B453,Red Toad Amber Ale,Trailhead Red Amber Ale,0
+4826,A3428,B3428,Willoughby American Amber Ale,Willoughby American Amber Ale,1
+4828,A3428,B4042,Willoughby American Amber Ale,Maldita Old Continent American Amber Ale,0
+4838,A3435,B1113,Stone Liberty Station Outbreak Series: Red Ale,Liberty High Point Rocket_s Red Ale,0
+4840,A3435,B199,Stone Liberty Station Outbreak Series: Red Ale,Brew Bus Detour Series: Rollin Dirty Red Ale - Wood Aged,0
+4880,A3449,B2335,Red Shedman's Imperial Amber Ale,Boxing Cat Firecracker Imperial Red Ale,0
+4891,A3449,B2906,Red Shedman's Imperial Amber Ale,Kinetic Infrared Imperial Red Ale,0
+4902,A3449,B3472,Red Shedman's Imperial Amber Ale,Rock Bottom Orland Park King of Hearts Imperial Red Ale,0
+4925,A3464,B3615,Pizza Orgasmica Amber Ale,Pizza Port Acacia Amber Ale,0
+4949,A3492,B1430,Winter Seasonal Amber Ale,Brewsters Winter WARMer Amber Ale,0
+4965,A3515,B3515,Red RYEding Hood,Chapman_s Red RYEding Hood,1
+4993,A3525,B2335,Double Mongrel Imperial India Red Ale,Boxing Cat Firecracker Imperial Red Ale,0
+4996,A3525,B2367,Double Mongrel Imperial India Red Ale,Peter Bs Sum Of Hours Imperial Red Ale,0
+5014,A3525,B354,Double Mongrel Imperial India Red Ale,Spring House Atomic Raygun Imperial Red Ale,0
+5045,A3580,B3580,Wobbly Red Ale,Crannog Wobbly Toddler Red Milk Ale,0
+5062,A362,B1023,Climax Noel - Imperial Red Ale,Fulton The Libertine Imperial Red Ale - Heaven Hill Rye Whiskey Barrel Aged,0
+5075,A362,B1817,Climax Noel - Imperial Red Ale,Rusty Truck Stupiphany Imperial Red Ale,0
+5093,A362,B3138,Climax Noel - Imperial Red Ale,Edge Imperial Red Ale &#40;Spring Seasonal&#41;,0
+5112,A363,B1436,Premium Red Ale,Ranga Premium Red Ale,0
+5125,A3641,B543,Escanaba River Amber Ale,Piney River McKinney Eddy Amber Ale,0
+5129,A3653,B1610,Constanza_s Hoppy Red Ale,Spiteful Angry Adam Hoppy Red Ale,0
+5145,A3670,B3670,Buckleys Original Ale,Buckleys Original Ale,1
+5163,A3674,B11,Starlord's Mixtape / Groot Drank Imperial Red Ale,Lagunitas Imperial Red Ale,0
+5171,A3674,B1754,Starlord's Mixtape / Groot Drank Imperial Red Ale,Iron Horse Fresh Hop Imperial Red Ale,0
+5172,A3674,B176,Starlord's Mixtape / Groot Drank Imperial Red Ale,406 Imperial Red Ale,0
+5204,A3674,B666,Starlord's Mixtape / Groot Drank Imperial Red Ale,Pizza Port Rhino Chaser Imperial Red Ale,0
+5213,A3680,B2580,Weekender American Amber Ale,Canal Park General Sterling Price American Amber Ale - Centennial,0
+5230,A37,B3710,Shark Attack Double Red Ale,Midnight Sun Unite Double Red Hot Ale &#40;2015&#41;,0
+5271,A3701,B3502,Commander Clifford_s Imperial Red Ale,Proof Abandoned Planet Imperial Red Ale,0
+5287,A3710,B2327,Double Red Hot Ale,Below Grade Super Duty Double Red Ale,0
+5291,A3710,B589,Double Red Hot Ale,Destihl Barrel Aged Deadhead Double Red Ale,0
+5332,A3764,B1242,Kniksen India Red Ale,Good People Stepchild Belgian India Red Ale,0
+5338,A3764,B471,Kniksen India Red Ale,Boneyard Skunkape India Red Ale,0
+5351,A3797,B308,Monkey King Amber Ale,RJ King Wingwalker Amber Ale,0
+5413,A3807,B3807,Neudorf Red Ale,Bendorf Neudorf Red Ale,1
+5434,A3849,B3849,Vital Infrared Imperial Red,Vital Infrared Imperial Red,1
+5437,A3851,B3851,Oatmeal Amber Ale,John Harvards Oatmeal Amber Ale,1
+5439,A3862,B1023,Photobomb Imperial Red Ale,Fulton The Libertine Imperial Red Ale - Heaven Hill Rye Whiskey Barrel Aged,0
+5455,A3862,B2242,Photobomb Imperial Red Ale,ShuBrew Heart and Sole Imperial Red Ale,0
+5482,A3862,B496,Photobomb Imperial Red Ale,Howe Sound Three Beavers Imperial Red Ale,0
+5492,A3867,B2952,Alpine Mountain Amber Ale,Breckenridge Mountain Series: Hoppy Amber Ale,0
+5539,A3891,B259,Red Headed Slut Amber Ale,Baird Red Rose Amber Ale,0
+5542,A3891,B3419,Red Headed Slut Amber Ale,Blue Cat Red Toad Amber Ale,0
+5544,A3891,B453,Red Headed Slut Amber Ale,Trailhead Red Amber Ale,0
+5569,A3901,B839,Big Bully Amber Ale,Big Time Atlas Amber Ale,0
+5639,A394,B394,Belle Gueule Rousse,Belle Gueule Rousse,1
+5680,A3966,B3966,Honey Basil Amber,Rude Hippo Honey Basil Amber,1
+5718,A4,B1511,Green Flash Hop Head Red Ale,Bagby Hop Crop Red Ale,0
+5719,A4,B1754,Green Flash Hop Head Red Ale,Iron Horse Fresh Hop Imperial Red Ale,0
+5733,A4005,B4001,Ambleside Amber Ale,Bridge Ambleside Amber Ale - Pomegranate & Galena Hops,0
+5735,A4008,B1520,Amber Ale With Spanish Orange,Big Bear Mountain Orange Blossom Amber Ale,0
+5740,A4012,B107,Hop Around Imperial Red Ale,Marble Imperial Red Ale,0
+5741,A4012,B1070,Hop Around Imperial Red Ale,Wynwood Fox Imperial Red Ale,0
+5743,A4012,B1141,Hop Around Imperial Red Ale,Laguna Beach Grateful Red Imperial Red Ale,0
+5750,A4012,B1732,Hop Around Imperial Red Ale,Oak Creek King Crimson Imperial Red Ale,0
+5755,A4012,B2182,Hop Around Imperial Red Ale,Kern River Dirty Hippie Imperial Red Ale,0
+5757,A4012,B2242,Hop Around Imperial Red Ale,ShuBrew Heart and Sole Imperial Red Ale,0
+5762,A4012,B2369,Hop Around Imperial Red Ale,Figueroa Mountain / Pizza Port Shark Lips Imperial Red Ale,0
+5769,A4012,B2971,Hop Around Imperial Red Ale,Ale Mania Imperial Red Ale,0
+5776,A4012,B3432,Hop Around Imperial Red Ale,Speakeasy Wet Hop Prohibition Red Ale,0
+5784,A4012,B412,Hop Around Imperial Red Ale,Austin Beerworks Battle Axe Imperial Red Ale,0
+5809,A4041,B317,Pioneer American Red Ale,Fat Bottom Ruby Red American Ale,0
+5818,A4053,B4053,Red's On Vacation,Barley Johns Reds on Vacation,1
+5857,A4078,B4358,Lower De Boom Barleywine,21st Amendment Bourbon Barrel Lower da Boom Barleywine,0
+5865,A4081,B4356,Alaskan Barley Wine (Pilot Series),Hermit Thrush Abbey Series #  1 - Jolly Abbot Barley Wine,0
+5898,A4102,B4369,Oak-Aged Backburner (Imperial Barley Wine Style Ale),Amsterdam X Sawdust City X Great Lakes X Indie Ale Barley Wine &#40;Oak&#41;,0
+5949,A411,B495,Starfish Imperial Red Ale,Worthy Eruption Imperial Red Ale,0
+5961,A4115,B4115,Thomas Hooker Old Marley Barleywine,Thomas Hooker Old Marley Barleywine,1
+5963,A4120,B4174,Pike Old Bawdy Barley Wine,Bristol Old No. 23 Barley Wine,0
+6000,A4135,B418,Old Guardian Barley Wine Style Ale - Bourbon Barrel Aged,Columbus Bourbon Barrel Aged Uncle Rusty,0
+6006,A4135,B4231,Old Guardian Barley Wine Style Ale - Bourbon Barrel Aged,Revolution Barrel Aged Institutionalized Barley Wine,0
+6026,A414,B3742,Tongue Buckler (Bourbon Barrel Aged),23rd Street Pumpkin Ale Bourbon Barrel Aged,0
+6033,A4141,B4141,Old Cellar Dweller,Driftwood Old Cellar Dweller Barleywine,1
+6063,A4154,B4154,Kuhnhenn Extraneous Ale,Kuhnhenn Extraneous Ale,1
+6068,A4157,B4223,Kickin' Chicken Bourbon Barrel Barley Wine,Elevator Barrel Aged Barley Wine,0
+6091,A4171,B1023,Old Guardian Barley Wine Style Ale - Red Wine Barrel Aged,Fulton The Libertine Imperial Red Ale - Heaven Hill Rye Whiskey Barrel Aged,0
+6100,A4171,B199,Old Guardian Barley Wine Style Ale - Red Wine Barrel Aged,Brew Bus Detour Series: Rollin Dirty Red Ale - Wood Aged,0
+6167,A4192,B1974,Three Sheets Barleywine (Barrel Aged),&#40;512&#41; Cabernet Barrel Aged Three,0
+6186,A4207,B4288,Bourbon Barrel Aged Behemoth With Cherries,Lompoc Bourbon Barrel Aged Old Tavern Rat,0
+6195,A4212,B4212,Fisherman's Tea Party,Cape Ann Fisherman_s Tea Party,1
+6197,A4216,B4216,Centurion Barleywine Ale,Golden City Centurion Barleywine Ale,1
+6204,A4217,B4093,John Barleycorn - Bourbon Barrel Aged,AleSmith Old Numbskull - Bourbon Barrel Aged,0
+6209,A4217,B917,John Barleycorn - Bourbon Barrel Aged,Actual Bourbon Barrel Aged Elektron,0
+6214,A4223,B4183,Elevator Barrel Aged Barley Wine (Bar Bar),Hopworks Bourbon Aged Noggin Floggin Barley Wine,0
+6221,A4228,B4232,AmEn! Barleywine - Barrel Aged,Tighthead Barrel Aged Old Kaya Dog Barleywine,0
+6235,A4236,B4076,Inception Series - Runnin' With The Devil,18th Street Deal With the Devil Pale Ale,0
+6242,A4255,B1543,Bourbon Barrel Aged Auld Bitch,Aspen Bourbon Barrel Aged Conundrum Red Ale,0
+6246,A4255,B338,Bourbon Barrel Aged Auld Bitch,Lompoc Bourbon Barrel Aged Proletariat Red Ale,0
+6255,A4258,B4232,Three Sheets Barleywine (Syrah Barrel Aged),Tighthead Barrel Aged Old Kaya Dog Barleywine,0
+6258,A426,B426,Strada S. Felice,Grado Plato Strada S. Felice,1
+6262,A4271,B1854,Noggin Floggin (Bourbon Barrel Aged),MadTree Bourbon Barrel Aged Happy Amber,0
+6289,A4292,B4292,Barrel Aged Chessie,Union Craft Chessie Barleywine Barrel Aged,1
+6304,A4311,B1854,Frost Quake Bourbon Barrel Aged Barley Wine,MadTree Bourbon Barrel Aged Happy Amber,0
+6306,A4311,B338,Frost Quake Bourbon Barrel Aged Barley Wine,Lompoc Bourbon Barrel Aged Proletariat Red Ale,0
+6318,A4311,B4330,Frost Quake Bourbon Barrel Aged Barley Wine,Hangar 24 Barrel Roll No. 04: Hammerhead - Bourbon Barrel Aged with Chai Tea,0
+6350,A4341,B4156,Heavyweight Ticklefight Champion Of The World,Solemn Oath Heavyweight Ticklefight Champion of the World,1
+6363,A4359,B4237,Isle Of Pines Barley Wine,Anderson Valley Barrel Aged Horn of the Beer Barley Wine,0
+6388,A4378,B418,Ole' Redbeard Barleywine (Bourbon Barrel Aged),Columbus Bourbon Barrel Aged Uncle Rusty,0
+6408,A438,B543,Simeon Jones River Valley Amber Ale,Piney River McKinney Eddy Amber Ale,0
+6409,A438,B758,Simeon Jones River Valley Amber Ale,Metolius River Ales Rusty Spinner Amber Ale,0
+6423,A4384,B4096,Barrel Aged Series: Barley Wine,Hangar 24 Barrel Roll No. 04: Hammerhead - Barrel Aged Barley Wine,0
+6426,A4384,B4223,Barrel Aged Series: Barley Wine,Elevator Barrel Aged Barley Wine,0
+6472,A4391,B4358,Old Blarney Barleywine - Bourbon Barrel Aged,21st Amendment Bourbon Barrel Lower da Boom Barleywine,0
+6499,A45,B2241,Kingpin Double Red Ale,Out of Bounds Relentless Double Red Ale,0
+6560,A47,B2367,Red-oric - Beer Camp #65 (Best Of Beer Camp: Imperial Red Ale),Peter Bs Sum Of Hours Imperial Red Ale,0
+6571,A47,B2951,Red-oric - Beer Camp #65 (Best Of Beer Camp: Imperial Red Ale),Two Brothers Revelry Imperial Red Ale,0
+6580,A47,B3472,Red-oric - Beer Camp #65 (Best Of Beer Camp: Imperial Red Ale),Rock Bottom Orland Park King of Hearts Imperial Red Ale,0
+6604,A489,B489,Copperhead Amber Ale,Yalobusha Copperhead Amber Ale,1
+6630,A495,B2349,Eruption Imperial Red Ale,De Koninck TSTBRW 01 Imperial Red Ale,0
+6639,A495,B2971,Eruption Imperial Red Ale,Ale Mania Imperial Red Ale,0
+6656,A495,B848,Eruption Imperial Red Ale,Three Heads Buffalo Soul Jah Imperial Red Ale,0
+6668,A496,B173,Three Beavers Imperial Red Ale,Mission Carrack Imperial Red Ale,0
+6671,A496,B176,Three Beavers Imperial Red Ale,406 Imperial Red Ale,0
+6682,A496,B2788,Three Beavers Imperial Red Ale,Renegade Scarlett Letter Imperial Red Ale,0
+6685,A496,B293,Three Beavers Imperial Red Ale,Lavery Imperial Red Ale &#40;IRA&#41;,0
+6688,A496,B3094,Three Beavers Imperial Red Ale,Scuttlebutt Mateo Loco Imperial Red Ale,0
+6701,A496,B495,Three Beavers Imperial Red Ale,Worthy Eruption Imperial Red Ale,0
+6733,A500,B2369,West Sixth / Country Boy Country Western (Volume 3 Imperial Red Ale),Figueroa Mountain / Pizza Port Shark Lips Imperial Red Ale,0
+6745,A500,B31,West Sixth / Country Boy Country Western (Volume 3 Imperial Red Ale),Ballast Point Tongue Buckler Imperial Red Ale,0
+6774,A501,B1536,Double Dragon Imperial Red Ale,Yukon You Only Live Once Imperial Red Ale,0
+6800,A501,B3094,Double Dragon Imperial Red Ale,Scuttlebutt Mateo Loco Imperial Red Ale,0
+6802,A501,B3138,Double Dragon Imperial Red Ale,Edge Imperial Red Ale &#40;Spring Seasonal&#41;,0
+6820,A501,B989,Double Dragon Imperial Red Ale,Wildcard Double Down Imperial Red Ale,0
+6829,A505,B2952,Mountain Goat Fancy Pants Amber Ale,Breckenridge Mountain Series: Hoppy Amber Ale,0
+6835,A510,B1242,Good Medicine Strong Red Ale,Good People Stepchild Belgian India Red Ale,0
+6840,A517,B1838,Honey Amber Ale,Heavy Seas Desert Island Series American Honey Amber Ale,0
+6850,A522,B270,Hawai'i Nui Sunset Amber Ale,Grand Canyon Sunset Amber Ale,0
+6869,A529,B3741,American India Red Ale,Lofty Zeb_s American Red Ale,0
+6886,A535,B1501,Red Racer India Style Red Ale,Heist American Style Red Ale,0
+6896,A535,B964,Red Racer India Style Red Ale,GoodLife Redside India Red Ale,0
+6915,A553,B3978,Harold The Red Ale,Off the Rail Raybuck Red Ale,0
+6945,A573,B2453,Amber Waves Ale,Capitol City Amber Waves Ale,1
+6986,A599,B302,Rocky Mountain Red Ale,Crazy Mountain Boohai Red Ale &#40;Kura Koa&#41;,0
+7028,A623,B4237,Beer Of The Dragon,Anderson Valley Barrel Aged Horn of the Beer Barley Wine,0
+7051,A64,B64,Dark Horse Amber Ale,Dark Horse Amber Ale,1
+7121,A663,B2951,Red Dread Imperial Red Ale,Two Brothers Revelry Imperial Red Ale,0
+7147,A665,B3475,O'Connor's Irish Red Ale,Loose Shoe Slinte Irish Red Ale,0
+7155,A666,B11,Rhino Chaser Imperial Red Ale,Lagunitas Imperial Red Ale,0
+7183,A666,B3138,Rhino Chaser Imperial Red Ale,Edge Imperial Red Ale &#40;Spring Seasonal&#41;,0
+7209,A685,B521,Boundary Bay Amber Ale,Half Moon Bay Mavericks Amber Ale,0
+7231,A707,B1023,BJ's Imperial Red Ale,Fulton The Libertine Imperial Red Ale - Heaven Hill Rye Whiskey Barrel Aged,0
+7256,A707,B2906,BJ's Imperial Red Ale,Kinetic Infrared Imperial Red Ale,0
+7285,A715,B1141,Redeemer Imperial Red Ale,Laguna Beach Grateful Red Imperial Red Ale,0
+7287,A715,B1477,Redeemer Imperial Red Ale,Laurelwood Organic Deranger Imperial Red Ale,0
+7378,A743,B1536,Saint Gleason Imperial Red Ale,Yukon You Only Live Once Imperial Red Ale,0
+7380,A743,B173,Saint Gleason Imperial Red Ale,Mission Carrack Imperial Red Ale,0
+7394,A743,B2788,Saint Gleason Imperial Red Ale,Renegade Scarlett Letter Imperial Red Ale,0
+7429,A747,B1369,North 45 Amber Ale,Thirsty Pagan North Coast Amber Ale,0
+7463,A785,B1023,Barrel Aged Moustache Ride Red,Fulton The Libertine Imperial Red Ale - Heaven Hill Rye Whiskey Barrel Aged,0
+7481,A79,B79,Green Lakes Organic Ale,Deschutes Green Lakes Non-Organic Ale,0
+7486,A794,B794,Trail Ridge Red,Estes Park Trail Ridge Red,1
+7548,A848,B1023,Buffalo Soul Jah Imperial Red Ale,Fulton The Libertine Imperial Red Ale - Heaven Hill Rye Whiskey Barrel Aged,0
+7551,A848,B11,Buffalo Soul Jah Imperial Red Ale,Lagunitas Imperial Red Ale,0
+7559,A848,B1754,Buffalo Soul Jah Imperial Red Ale,Iron Horse Fresh Hop Imperial Red Ale,0
+7592,A848,B666,Buffalo Soul Jah Imperial Red Ale,Pizza Port Rhino Chaser Imperial Red Ale,0
+7626,A877,B877,Red Ale Priprioca,Amazon Beer Priprioca Red Ale,1
+7697,A905,B1720,Ballistic Brewing Co. - Gorgon Red Ale,Red Horn Coffee House and Brewing Company Red Horn Drink Well Red Ale,0
+7701,A905,B492,Ballistic Brewing Co. - Gorgon Red Ale,Ballistic Brewing Gorgon Red Ale,1
+7737,A921,B1485,Big Horn Buttface Amber Ale,Big Texan Texas Red Amber Ale,0
+7761,A940,B475,Creeper Trail Amber Ale,Black Diamond Steep Trail Amber Ale,0
+7767,A943,B4042,Old Detroit Amber Ale,Maldita Old Continent American Amber Ale,0
+7880,A994,B3050,JT Schmid's Emil's Amber Ale,JT Schmids Emils Amber Ale,0
+7884,A999,B1403,Sanibel Red Island Ale,Baranof Island Redoubt Red Ale,0
+7889,A999,B999,Sanibel Red Island Ale,Point Ybel Sanibel Red Island Ale,1
