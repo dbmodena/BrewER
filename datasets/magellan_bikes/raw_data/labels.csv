@@ -1,0 +1,456 @@
+#key=_id
+#rtable=POINTER
+#foreign_key_ltable=ltable.id
+#foreign_key_rtable=rtable.id
+#ltable=POINTER
+_id,ltable.id,rtable.id,ltable.bike_name,ltable.city_posted,ltable.km_driven,ltable.price,ltable.color,rtable.bike_name,rtable.city_posted,rtable.km_driven,rtable.price,rtable.color,gold
+70252,36217,28620,Hero Honda CBZ Disc,Delhi,58000,15000,black,Hero Honda Passion Standard,Delhi,59000,11000,red,0
+77029,36219,31966,Hero Honda Glamour,Delhi,45000,23000,black,Hero Honda Hunk Standard,Delhi,44000,40000,red,0
+92466,36224,24610,Hero Honda Splendor Plus,Delhi,7350,38000,black,Hero Splendor Plus Alloy,Delhi,8000,38000,black,1
+147190,36243,22741,Yamaha Fazer Sport,Delhi,12000,46000,red,Yamaha FZ S Standard,Delhi,12000,49000,red,0
+154226,36245,29302,Yamaha YZF R15 Version 2.0,Delhi,8000,90000,red,Yamaha YZF R15 V 2.0,Delhi,9000,80000,red,1
+177615,36442,1820,Bajaj Pulsar 135,Delhi,17000,27999,red,Bajaj Pulsar 135 LS Standard,Delhi,16000,45000,red,1
+189170,36480,23151,Hero Honda Passion Pro,Delhi,10200,32000,black,Hero Passion PRO Self Alloy,Delhi,9500,40000,black,1
+189569,36480,27834,Hero Honda Passion Pro,Delhi,10200,32000,black,Hero Honda Karizma Standard,Delhi,10000,40000,yellow,0
+206296,36717,33756,Hero Honda Hunk,Delhi,33000,27000,red,Hero Honda Passion Plus Drum,Delhi,34000,31000,blue,0
+259077,36734,11034,Yamaha YZF R15,Delhi,17000,46000,red,Yamaha YZF R15 V 2.0,Delhi,16000,85000,black,0
+259466,36734,15249,Yamaha YZF R15,Delhi,17000,46000,red,Yamaha SZ Standard,Delhi,16900,40000,red,0
+261185,36734,34146,Yamaha YZF R15,Delhi,17000,46000,red,Yamaha YZF R15 V 2.0,Delhi,18000,70000,black,0
+267298,36737,30675,Yamaha FZ16,Delhi,27000,26999,orange,Yamaha Fazer Standard,Delhi,26000,50000,blue,0
+274252,36786,35445,Bajaj Pulsar 150cc Dtsi,Delhi,40000,11999,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,40000,15000,black,1
+376312,36930,22799,Hero Honda Splendor Plus,Delhi,40000,30000,black,Hero Honda Splendor PRO Self,Delhi,40000,38000,black,0
+413983,36948,11193,Bajaj Pulsar 150cc Dtsi,Delhi,40000,10999,black,Bajaj Pulsar 150 Kick Start,Delhi,40000,21000,black,1
+439392,36974,6031,Bajaj Discover 100,Delhi,28000,21999,black,Bajaj Discover 100 5 Speed,Delhi,27609,25000,black,1
+479836,37032,26044,Bajaj Pulsar 220F Dtsi,Delhi,18000,50000,black,Bajaj Avenger 220 DTS- i,Delhi,19000,50000,black,0
+482006,37042,14075,Hero Honda Cd Deluxe,Delhi,16900,29999,black,Hero Honda CD Deluxe Standard,Delhi,16499,29000,blue,0
+482668,37042,21102,Hero Honda Cd Deluxe,Delhi,16900,29999,black,Hero Honda Passion PRO Standard,Delhi,17000,35000,black,0
+483840,37042,33981,Hero Honda Cd Deluxe,Delhi,16900,29999,black,Hero Honda Passion PRO Standard,Delhi,17000,40000,black,0
+500757,37274,6883,Bajaj Pulsar 150cc Dtsi,Delhi,14000,23000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,14500,37500,red,0
+508008,37278,15882,Yamaha FZ S,Delhi,12000,61999,green,Yamaha YZF R15 V 2.0,Delhi,13000,120000,green,0
+550238,37390,19165,Yamaha FZ16,Delhi,32000,35000,black,Yamaha FZ S Standard,Delhi,33000,60000,black,0
+552700,37391,10649,Yamaha FZ FI Version 2.0,Delhi,25000,40000,red,Yamaha YZF R15 V 2.0,Delhi,24000,80000,red,0
+580023,37400,27715,Honda CBR 150R Standard,Delhi,4600,90000,orange,TVS Jupiter Standard,Delhi,4700,49000,white,0
+580735,37400,34816,Honda CBR 150R Standard,Delhi,4600,90000,orange,Vespa S Standard,Delhi,5500,75000,black,0
+613621,37412,5703,Bajaj Pulsar 180cc Dtsi,Delhi,31000,38000,red,Bajaj Pulsar 180 DTS- i Standard,Delhi,30000,40000,black,0
+617007,37413,7878,Bajaj Discover 125 M Drum,Delhi,42000,16000,black,Bajaj Discover125 Drum Brake,Delhi,43000,26000,black,1
+663719,37456,25249,Hero Honda Hunk,Delhi,15000,31999,black,Hero Honda Karizma Standard,Delhi,15000,40000,red,0
+681497,37463,7201,Bajaj Pulsar 150cc Dtsi,Delhi,27000,16000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,27000,23000,black,1
+682362,37463,17069,Bajaj Pulsar 150cc Dtsi,Delhi,27000,16000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,27000,20000,black,1
+686831,37465,30892,Bajaj Pulsar 220F Dtsi,Delhi,2500,79000,black,Bajaj Avenger 220 DTS- i,Delhi,2500,75000,blue,0
+692165,37467,18324,Bajaj Pulsar 150cc Dtsi,Delhi,35000,38000,Cherry,Bajaj Pulsar 150 Kick Start,Delhi,34000,36000,blue,0
+807005,37934,3192,Yamaha FZ S,Delhi,15000,50000,black,Yamaha SZ R Standard,Delhi,14500,45000,black,0
+811279,37935,15189,Yamaha SZ RR,Delhi,18000,45000,blue,Yamaha YZF R15 V 2.0,Delhi,19000,75000,blue,0
+873289,37955,23094,Hero Honda Splendor Pro,Delhi,32000,27000,green,Hero Honda Karizma Standard,Delhi,31549,35000,yellow,0
+895327,37962,16912,Hero Honda Cbz Xtreme Self Start,Delhi,15000,43000,black,Hero Honda Super Splendor Drum Self,Delhi,15000,37000,black,0
+902796,37964,28481,Bajaj Avenger 220,Delhi,8000,69000,black,Bajaj Avenger 220 DTS- i,Delhi,7827,50000,red,0
+935099,38149,28701,Yamaha FZ16,Delhi,23000,44500,black,Yamaha SZ R Standard,Delhi,24000,40000,red,0
+937446,38364,18695,Bajaj Xcd Exceed 125cc Dtssi,Delhi,34000,21999,red,Bajaj Xcd 125 cc,Delhi,35000,20000,silver,0
+971556,38376,2842,Bajaj Pulsar 220F Dtsi,Delhi,15000,40000,black,Bajaj Avenger 220 DTS- i,Delhi,15000,70000,red,0
+1006289,38386,30801,Honda CBR 250R Standard,Delhi,9300,100000,silver,Honda CBR250R Repsol-ABS,Delhi,9500,95000,red,0
+1038415,38398,29224,Royal Enfield Bullet Electra Twinspark,Delhi,22000,74000,silver,Royal Enfield Electra Standard,Delhi,21000,77000,silver,1
+1101345,38419,11287,Yamaha YZF R15,Delhi,20000,59999,blue,Yamaha FZ S Standard,Delhi,20000,45000,black,0
+1119354,38571,31995,Bajaj Pulsar 150cc Dtsi,Delhi,75000,22499,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,75000,20000,black,1
+1156573,38585,15250,Hero Honda Cbz Xtreme Self Start,Delhi,49000,31999,black,Hero Honda Karizma ZMR Standard,Delhi,50000,50000,white,0
+1210654,38649,6211,Bajaj Pulsar 180cc Dtsi,Delhi,25000,18000,black,Bajaj Pulsar 180 DTS- i Standard,Delhi,25000,32000,silver,0
+1254912,39028,32248,Hero Honda Hunk,Delhi,25000,50000,black,Hero Honda Karizma ZMR Standard,Delhi,24000,80000,black,0
+1254919,39028,32301,Hero Honda Hunk,Delhi,25000,50000,black,Hero Honda Splendor PRO Kick,Delhi,26000,30000,grey,0
+1273726,39039,26622,Hero Honda Passion Pro,Delhi,10000,24999,red,Hero Honda Splendor Plus Disc,Delhi,11000,40000,black,0
+1323871,39088,9678,Royal Enfield Bullet Electra Twinspark,Delhi,26000,75000,maroon,Royal Enfield Bullet Electra Twinspark Disc/Electric start,Delhi,25000,68000,silver,0
+1345449,39094,33981,Hero Honda Cd Deluxe,Delhi,17000,34999,black,Hero Honda Passion PRO Standard,Delhi,17000,40000,black,0
+1366084,39102,12841,Hero Honda Splendor Super,Delhi,60000,13000,blue,Hero Honda Passion Standard,Delhi,60000,20000,silver,0
+1366526,39102,17487,Hero Honda Splendor Super,Delhi,60000,13000,blue,Hero Honda Karizma Standard,Delhi,61000,19000,black,0
+1411414,39118,14272,Bajaj Discover 125 M Drum,Delhi,27000,24999,red,Bajaj Discover125 Drum Brake,Delhi,26000,20000,black,0
+1420209,39121,3884,Bajaj Discover 125 M Drum,Delhi,32000,12000,black,Bajaj Discover125 Drum Brake,Delhi,31500,25000,black,1
+1469082,39369,9638,Bajaj Discover 100,Delhi,65000,18000,red,Bajaj Discover 100 4 Speed,Delhi,65000,27000,black,0
+1571644,39405,1312,Hyosung Gt 250r,Delhi,500,270000,black,Hyosung GT250R Standard,Delhi,100,280000,red,0
+1580006,39459,23149,Bajaj Discover 100 M Disc,Delhi,3600,47999,black,Bajaj Discover 100 4 Speed,Delhi,3500,28000,blue,0
+1602230,39506,18936,Bajaj Pulsar 150cc Dtsi,Delhi,28000,34999,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,28000,35000,blue,0
+1645437,39654,32820,Yamaha FZS FI Version 2.0,Delhi,17000,64000,green,Yamaha YZF R15 V 2.0,Delhi,16000,90000,black,0
+1697231,39906,34438,Yamaha YZF R15 Version 2.0,Delhi,12000,99999,black,Yamaha YZF R15 V 2.0,Delhi,12000,100000,blue,0
+1709352,39910,26465,Suzuki Gixxer 150,Delhi,1700,79000,maroon,Suzuki Gixxer Standard,Delhi,700,75000,white,0
+1770690,39929,26674,Bajaj Pulsar 135,Delhi,22300,29999,red,Bajaj Pulsar 135 LS Standard,Delhi,23000,35000,red,1
+1811936,39989,18362,Hero Honda Cbz Xtreme Self Start,Delhi,26000,39000,black,Hero Honda Passion PRO Standard,Delhi,27000,33000,black,0
+1912819,40147,28127,Hero Honda Cbz Xtreme Self Start,Delhi,13000,60000,black,Hero Xtreme 2014 Self Start Double Disc Brake Alloy Wheel,Delhi,12500,65000,black,1
+1918396,40154,17997,Bajaj Pulsar 200 NS,Delhi,60000,17000,black,Bajaj Pulsar 200 Standard,Delhi,60000,30000,grey,0
+1983842,40425,28483,Royal Enfield Bullet Electra Twinspark,Delhi,40000,74000,black,Royal Enfield Machismo 350,Delhi,40000,70000,green,0
+1989924,40427,24314,Hero Honda Passion Pro,Delhi,34000,29000,silver,Hero Honda Passion Plus Drum,Delhi,34500,32000,black,0
+2006684,40432,30992,Hero Motocorp Passion Xpro Disc Self Cast,Delhi,12300,38000,silver,Hero Passion X Pro Drum Self Alloy,Delhi,11500,36000,red,0
+2054559,40482,25290,Yamaha SZ S,Delhi,10500,28000,black,Yamaha SZ R Standard,Delhi,11500,35000,blue,0
+2097390,40590,34527,Honda Stunner CBF Self Disc Alloy,Delhi,25000,25000,red,Honda CBF Stunner Self,Delhi,25000,23500,red,1
+2119469,40597,29302,Yamaha FZS FI Version 2.0,Delhi,8000,53000,green,Yamaha YZF R15 V 2.0,Delhi,9000,80000,red,0
+2125710,40613,27199,Hero Honda Hunk,Delhi,17000,26000,red,Hero Honda Karizma ZMR Standard,Delhi,17000,41000,black,0
+2155493,40793,34705,Bajaj Pulsar RS 200 Standard,Delhi,2000,110000,yellow,Bajaj Pulsar NS200 Standard,Delhi,1300,90000,black,0
+2156583,40794,11383,Bajaj Discover 100,Delhi,24000,28500,black,Bajaj Discover 100 5 Speed,Delhi,23000,35000,black,1
+2165637,40797,3807,Bajaj Pulsar 135,Delhi,18500,32000,black,Bajaj Pulsar 135 LS Standard,Delhi,18500,50000,red,0
+2209876,40812,29944,Hero Honda Karizma R,Delhi,38000,30000,red,Hero Honda Passion PRO Standard,Delhi,37000,30000,red,0
+2222360,40816,25249,Hero Honda Cbz Xtreme Self Start,Delhi,16000,26999,black,Hero Honda Karizma Standard,Delhi,15000,40000,red,0
+2254809,40827,27489,TVS Apache RTR 160,Delhi,30000,40000,black,TVS Apache RTR 160 Rear Disc Brake,Delhi,30000,50000,green,0
+2335708,41061,29673,Bajaj Pulsar 150cc Dtsi,Delhi,40000,11000,black,Bajaj Pulsar 150 Kick Start,Delhi,40000,15000,red,0
+2371886,41217,777,Hero Honda Karizma R,Delhi,26000,29000,yellow,Hero Karizma R,Delhi,27000,50000,black,0
+2424846,41233,15882,Yamaha YZF R15 Version 2.0,Delhi,13000,69000,red,Yamaha YZF R15 V 2.0,Delhi,13000,120000,green,0
+2444610,41351,20364,Bajaj Discover 100,Delhi,25000,22999,black,Bajaj Discover 100 5 Speed Self,Delhi,25000,25000,black,1
+2504603,41534,5186,Bajaj Pulsar 180cc Dtsi,Delhi,35000,24999,black,Bajaj Pulsar 180 DTS- i Standard,Delhi,35000,42000,black,1
+2514639,41537,9694,Bajaj Pulsar 135,Delhi,20000,29999,black,Bajaj Pulsar 135 LS Standard,Delhi,21000,40000,black,1
+2515074,41537,14534,Bajaj Pulsar 135,Delhi,20000,29999,black,Bajaj Pulsar 135 LS Standard,Delhi,20000,32000,black,1
+2535342,41543,24897,Hero Motocorp Passion Xpro Disc Self Cast,Delhi,10000,49999,black,Hero Passion X Pro Disc Self Alloy,Delhi,9500,50000,black,1
+2585276,41677,5173,Bajaj Pulsar 150cc Dtsi,Delhi,35000,34000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,35000,35000,black,1
+2591307,41679,578,Bajaj Pulsar 150cc Dtsi,Delhi,13000,35000,black,Bajaj Pulsar 150 DTS- i,Delhi,12000,50000,black,1
+2633544,41805,3701,Bajaj Pulsar 150cc Dtsi,Delhi,40000,9000,blue,Bajaj Pulsar 150 DTS- i Standard,Delhi,40000,15000,black,0
+2642360,41807,30538,Bajaj Pulsar 150cc Dtsi,Delhi,45000,39999,red,Bajaj Pulsar 150 DTS- i Standard,Delhi,45500,35000,black,0
+2655821,41812,343,Bajaj Pulsar 150cc Dtsi,Delhi,36000,32000,black,Bajaj Pulsar 150 DTS- i,Delhi,35000,38000,black,1
+2678290,41818,34846,Hero Honda Hunk,Delhi,60000,35000,red,Hero Honda CD Deluxe Standard,Delhi,60000,20000,black,0
+2702951,41827,22493,Royal Enfield Thunderbird 350,Delhi,7000,110000,Lightning,Royal Enfield Thunderbird 350 Disc,Delhi,7000,125000,black,0
+2715862,41832,22515,Suzuki Gixxer SF Standard,Delhi,9000,74999,black,Yamaha FZ S Standard,Delhi,8000,80000,green,0
+2716058,41832,24925,Suzuki Gixxer SF Standard,Delhi,9000,74999,black,Yamaha SZ R Standard,Delhi,8600,55000,red,0
+2728804,41836,22931,TVS Star City Alloy,Delhi,26500,12999,black,TVS Star City Alloy wheels,Delhi,26000,18000,grey,0
+2742411,41848,30747,Bajaj Pulsar 150cc Dtsi,Delhi,52000,26000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,51400,24000,black,1
+2754270,41936,18937,Honda Stunner CBF Self Disc Alloy,Delhi,35000,24000,yellow,Hero Honda Glamour Disc Self,Delhi,35000,34500,red,0
+2792475,42106,13409,Bajaj Pulsar 150cc Dtsi,Delhi,13000,45000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,12000,42000,black,1
+2817807,42114,7681,Hero Honda Passion Pro,Delhi,7500,34000,black,Hero Passion PRO Self Spoke,Delhi,6500,45000,black,1
+2833231,42120,35218,Honda CBR 250R Standard,Delhi,25000,95000,silver,Hero Honda Passion PRO Standard,Delhi,25000,39000,green,0
+2880742,42137,26280,Yamaha YZF R15 Version 2.0,Delhi,7000,95000,black,Yamaha YZF R15 V 2.0,Delhi,6600,90000,blue,0
+2894362,42265,33562,Bajaj Pulsar 150cc Dtsi,Delhi,50000,14999,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,50000,30000,black,1
+2911903,42529,13713,Bajaj Pulsar 135,Delhi,6000,39999,black,Bajaj Pulsar 135 LS Standard,Delhi,6500,55000,black,1
+2924576,42533,11002,Bajaj Pulsar 180cc Dtsi,Delhi,30000,29000,blue,Bajaj Pulsar 180 DTS- i Standard,Delhi,30000,55000,colour,0
+2927260,42534,4336,Yamaha FZ S,Delhi,25000,42000,black,Yamaha SZ R Standard,Delhi,25000,35000,black,0
+2932758,42535,30270,Bajaj Pulsar 135,Delhi,27034,24999,black,Bajaj Pulsar 135 LS Standard,Delhi,28000,30000,black,1
+2971221,42548,27618,Honda Unicorn Alloy,Delhi,35000,17999,black,Honda CB Unicorn Standard,Delhi,34000,28000,silver,0
+2993575,42555,24894,Royal Enfield Bullet Electra Twinspark,Delhi,15000,95000,black,Royal Enfield Bullet Electra Twinspark Disc/Electric start,Delhi,14000,90000,silver,0
+2997613,42556,33420,Royal Enfield Bullet 350 Twinspark,Delhi,200,160000,white,Royal Enfield Thunderbird 350 Disc,Delhi,100,150000,Metallic Brown,0
+3021155,42564,8232,Yamaha SZ RR,Delhi,16000,34999,red,Yamaha YZF R15 V1,Delhi,16000,80000,blue,0
+3022163,42564,19529,Yamaha SZ RR,Delhi,16000,34999,red,Yamaha FZ S Standard,Delhi,15000,50000,black,0
+3058542,42699,29494,Bajaj Pulsar 180cc Dtsi,Delhi,30500,34999,blue,Bajaj Pulsar 180 DTS- i Standard,Delhi,30000,35000,black,0
+3088855,42712,7427,Bajaj Discover 100,Delhi,30000,21999,red,Bajaj Discover 100 5 Speed,Delhi,30000,32000,black,0
+3089220,42712,11800,Bajaj Discover 100,Delhi,30000,21999,red,Bajaj Discover 100 5 Speed Self,Delhi,30000,33000,black,0
+3128680,42725,19772,Honda CBR 150R Deluxe,Delhi,6000,79999,orange,Honda Activa Deluxe,Delhi,6700,480000,black,0
+3191420,42746,35128,Yamaha YZF R15,Delhi,22000,65000,red,Yamaha SZ R Standard,Delhi,21000,30000,black,0
+3213268,42803,27834,Hero Honda Splendor Plus,Delhi,10000,39999,black,Hero Honda Karizma Standard,Delhi,10000,40000,yellow,0
+3296630,42833,21472,Yamaha Fazer Sport,Delhi,29000,40000,black,Yamaha Fazer Standard,Delhi,30000,45000,black,1
+3297125,42833,27444,Yamaha Fazer Sport,Delhi,29000,40000,black,Yamaha FZ16 Standard,Delhi,28000,35000,black,0
+3298308,42907,3713,Bajaj Pulsar 150 NS,Delhi,50000,23999,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,50000,30000,black,1
+3323053,42914,28534,Bajaj Discover 150 S Disc,Delhi,35000,22999,black,Bajaj Discover 150 Standard,Delhi,34000,31000,black,1
+3338320,42920,18551,Hero Honda Karizma Zmr Pgm Fi,Delhi,16300,42999,white,Hero Honda Hunk Standard,Delhi,16808,40000,black,0
+3339604,42920,32762,Hero Honda Karizma Zmr Pgm Fi,Delhi,16300,42999,white,Hero Honda Xtreme Standard,Delhi,16500,50000,black,0
+3411644,43159,8494,Hero Honda Karizma R,Delhi,17000,33000,black,Hero Karizma R,Delhi,17000,32000,red,0
+3412239,43159,15169,Hero Honda Karizma R,Delhi,17000,33000,black,Hero Honda CBZ extreme Self,Delhi,17000,40000,black,0
+3419352,43161,22554,Yamaha SZ RR,Delhi,18000,44999,red,Yamaha FZ S Standard,Delhi,19000,55000,black,0
+3428420,43455,15684,Hero Honda Cbz Xtreme Self Start,Delhi,50000,20000,black,Hero Honda Passion PRO Standard,Delhi,51000,26000,red,0
+3432158,43461,21325,Yamaha YZF R15 Version 2.0,Delhi,13000,82000,red,Yamaha YZF R15 V 2.0,Delhi,12000,85000,red,1
+3513371,43490,27745,Hero Honda Passion Plus,Delhi,35000,16999,black,Hero Honda CD Deluxe Standard,Delhi,35000,10000,blue,0
+3516373,43491,25071,Bajaj Pulsar 150cc Dtsi,Delhi,24500,28000,red,Bajaj Pulsar 150 DTS- i Standard,Delhi,24500,30000,red,1
+3560001,43505,7467,Bajaj Discover 125 Disc,Delhi,25000,20499,black,Bajaj Discover125 Disc Brake,Delhi,25000,38000,black,1
+3591623,43514,35627,Bajaj Pulsar 220F Dtsi,Delhi,37000,47000,blue,Bajaj Avenger 220 DTS- i,Delhi,38000,45000,black,0
+3630014,43710,32566,Bajaj Pulsar 150cc Dtsi,Delhi,33000,50000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,33333,50000,black,1
+3631945,43711,18079,Bajaj Pulsar 220F Dtsi,Delhi,35000,59999,black,Bajaj Pulsar 220S Standard,Delhi,35000,50000,black,1
+3637755,43713,11187,Bajaj Pulsar 150cc Dtsi,Delhi,70000,17999,black,Bajaj Pulsar 150 DTS- i Kick Start,Delhi,71000,20000,black,1
+3692341,43730,7890,Hero Honda Karizma Zmr Pgm Fi,Delhi,6500,79999,red,Hero Karizma ZMR Standard,Delhi,6200,65000,black,0
+3778687,43760,34784,Yamaha Fazer Fi Version 2.0,Delhi,15000,41999,black,Yamaha Fazer Standard,Delhi,16000,40000,black,1
+3798982,44080,9683,Bajaj Pulsar 150cc Dtsi,Delhi,37000,29000,silver,Bajaj Pulsar 150 DTS- i Standard,Delhi,38000,22000,black,0
+3800213,44080,23579,Bajaj Pulsar 150cc Dtsi,Delhi,37000,29000,silver,Bajaj Pulsar 150 DTS- i Standard,Delhi,36000,28000,black,0
+3816230,44088,22058,Bajaj Pulsar 150cc Dtsi,Delhi,50000,14000,blue,Bajaj Pulsar 150 Kick Start,Delhi,50000,18000,blue,1
+3838159,44095,14676,Hero Honda CBZ Self,Delhi,45000,25000,black,Hero Honda Passion Plus Drum,Delhi,45000,20000,red,0
+3839235,44095,27019,Hero Honda CBZ Self,Delhi,45000,25000,black,Hero Honda Passion Standard,Delhi,45000,12000,black,0
+3841965,44096,21005,Royal Enfield Bullet Electra,Delhi,35000,120000,silver,Royal Enfield Thunderbird 350 Standard,Delhi,35000,60000,silver,0
+3879733,44312,10617,Bajaj Discover 100,Delhi,26000,28500,red,Bajaj Discover 100 5 Speed,Delhi,25000,36000,black,0
+3893401,44317,18937,Hero Honda Hunk,Delhi,35000,20000,black,Hero Honda Glamour Disc Self,Delhi,35000,34500,red,0
+3900580,44320,27491,Hero Honda Splendor Plus,Delhi,70000,21000,black,Hero Honda Passion Plus Drum,Delhi,70000,20000,black,0
+3922692,44329,21731,Honda CBR 250R ABS,Delhi,2100,120000,black,Honda CBR250R Sports Red-STD,Delhi,2000,125000,black,1
+3967494,44547,17536,Bajaj Pulsar 180cc Dtsi,Delhi,49000,29000,black,Bajaj Pulsar 180 DTS- i Standard,Delhi,48000,24000,black,1
+3984951,44553,32225,Bajaj Pulsar 135,Delhi,50000,30000,red,Bajaj Pulsar 135 LS Standard,Delhi,50000,25000,red,1
+3993786,44556,22898,Bajaj Pulsar 150cc Dtsi,Delhi,29000,28000,red,Bajaj Pulsar 150 DTS- i Standard,Delhi,28000,30000,silver,0
+4022270,44567,16701,Hero Honda Passion Pro,Delhi,60000,20999,red,Hero Honda CBZ Disc,Delhi,60000,10000,silver,0
+4022591,44567,20054,Hero Honda Passion Pro,Delhi,60000,20999,red,Hero Honda Passion Standard,Delhi,59000,15000,black,0
+4057435,44579,13185,Yamaha FZ S,Delhi,15500,48000,blue,Yamaha YZF R15 V 2.0,Delhi,15000,80000,black,0
+4058467,44579,24717,Yamaha FZ S,Delhi,15500,48000,blue,Yamaha Fazer Standard,Delhi,16000,65000,black,0
+4074370,44584,21809,Yamaha Fazer Sport,Delhi,20000,40000,red,Yamaha Fazer Standard,Delhi,20000,40000,black,0
+4090352,44658,20005,Hero Honda Splendor Nxg,Delhi,35000,27000,black,Hero Honda CD Dawn Standard,Delhi,36000,22000,black,0
+4143924,44739,5233,Bajaj Pulsar 150cc Dtsi,Delhi,28000,12000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,28000,22000,black,1
+4245097,44799,18381,Hero Honda Cbz Xtreme Self Start,Delhi,47000,14999,black,Hero Honda CBZ extreme Self,Delhi,46000,24500,black,1
+4251853,44801,21783,Hero Honda Cbz Xtreme Self Start,Delhi,26000,45000,black,Hero Honda Karizma ZMR Standard,Delhi,25000,45000,red,0
+4299664,44831,15169,Hero Honda Karizma R,Delhi,16500,27000,yellow,Hero Honda CBZ extreme Self,Delhi,17000,40000,black,0
+4319045,45125,15372,Yamaha YZF R15,Delhi,30000,47000,blue,Yamaha YZF R15 V1,Delhi,30000,60000,black,0
+4325267,45127,13074,Yamaha FZ S,Delhi,19000,40000,red,Yamaha SZ R Standard,Delhi,20000,45000,black,0
+4362555,45140,32701,Honda Stunner CBF Self Disc Alloy,Delhi,33000,25000,black,Honda CBF Stunner Disc Self,Delhi,33000,32000,yellow,0
+4365820,45141,33016,Honda CB Twister Self Drum Alloy,Delhi,23000,27999,black,Honda CB Twister Disc/Electric start,Delhi,23000,34000,red,0
+4417900,45159,1857,Bajaj Pulsar 150cc Dtsi,Delhi,35000,19000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,35000,30000,black,1
+4418625,45159,10450,Bajaj Pulsar 150cc Dtsi,Delhi,35000,19000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,35000,25000,black,1
+4418755,45159,11864,Bajaj Pulsar 150cc Dtsi,Delhi,35000,19000,black,Bajaj Pulsar 150 DTS- i Kick Start,Delhi,36000,28000,black,1
+4467276,45232,13324,Royal Enfield Bullet Electra Twinspark,Delhi,30000,76999,silver,Royal Enfield Electra 5 S Drum Kick,Delhi,29000,80000,black,0
+4538208,45468,12572,Bajaj Pulsar 150cc Dtsi,Delhi,30000,23000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,31000,27000,black,1
+4564014,45531,12333,Yamaha SZ RR,Delhi,7000,49999,red,Yamaha Fazer Standard,Delhi,6000,50000,blue,0
+4629914,45625,27749,Bajaj Avenger 220,Delhi,13000,54000,blue,Bajaj Avenger 220 DTS- i,Delhi,12000,53000,red,0
+4684781,45642,27836,Honda CBR 150R Standard,Delhi,460,110000,Orenge,Bajaj Pulsar 150 DTS- i Standard,Delhi,100,70000,black,0
+4722849,45655,20043,Yamaha Sz R,Delhi,20000,34000,black,Yamaha FZ S Standard,Delhi,20000,50000,black,0
+4752984,45664,32275,Yamaha YZF R15 Version 2.0,Delhi,22000,67000,black,Yamaha YZF R15 V 2.0,Delhi,22000,75000,blue,0
+4823796,45881,30386,Royal Enfield Thunderbird 350,Delhi,6500,110000,Twilight,Royal Enfield Thunderbird 350 Disc,Delhi,5670,110000,black,0
+4856469,45963,34469,Yamaha FZS FI Version 2.0,Delhi,700,80000,green,Yamaha FZ S V 2.0 Standard,Delhi,800,82000,black,0
+4879153,45986,35245,Bajaj Pulsar 150cc Dtsi,Delhi,30000,22000,red,Bajaj Pulsar 150 Kick Start,Delhi,30000,20000,black,0
+4926707,46003,26748,Royal Enfield Classic 350,Delhi,6100,120000,maroon,Royal Enfield Thunderbird 350 Standard,Delhi,6500,130000,blue,0
+4977739,46329,19670,Bajaj Pulsar 220F Dtsi,Delhi,4200,80000,black,Bajaj Pulsar 220F Standard,Delhi,4500,70000,red,0
+4982110,46431,32357,Bajaj Pulsar 220F Dtsi,Delhi,15000,45000,black,Bajaj Pulsar 220 Fi Standard,Delhi,15000,72000,red,0
+5035311,46470,14110,Hero Honda Karizma R,Delhi,15000,24000,black,Hero Honda Karizma Standard,Delhi,15000,35000,yellow,0
+5059499,46478,31813,Honda Stunner CBF Self Disc Alloy,Delhi,35000,31500,red,Honda CBF Stunner Disc Self,Delhi,35000,35000,black,0
+5097388,46490,22515,Yamaha FZ16,Delhi,8700,54000,green,Yamaha FZ S Standard,Delhi,8000,80000,green,0
+5097584,46490,24925,Yamaha FZ16,Delhi,8700,54000,green,Yamaha SZ R Standard,Delhi,8600,55000,red,0
+5117423,46524,30142,Bajaj Pulsar 150cc Dtsi,Delhi,60000,21000,silver,Bajaj Pulsar 150 DTS- i Standard,Delhi,60000,30000,black,0
+5166308,46541,34858,TVS Apache RTR 180,Delhi,8000,64999,grey,TVS Apache RTR 180 Standard,Delhi,9000,75000,grey,1
+5170716,46543,12834,Yamaha FZ S,Delhi,8700,49000,red,Yamaha FZ16 Standard,Delhi,8800,55000,red,0
+5170755,46543,13219,Yamaha FZ S,Delhi,8700,49000,red,Yamaha YZF R15 V 2.0,Delhi,9700,80000,black,0
+5171604,46543,22463,Yamaha FZ S,Delhi,8700,49000,red,Yamaha YZF R15 V 2.0,Delhi,9000,100000,red,0
+5230391,47074,30365,Yamaha Sz R,Delhi,30000,30000,black,Yamaha Fazer Standard,Delhi,31000,40000,black,0
+5242178,47078,17747,TVS Apache RTR 160,Delhi,25000,38000,grey,TVS Apache RTR 160 Rear Disc Brake,Delhi,26000,42500,black,0
+5272182,47087,28648,Bajaj Pulsar 180cc Dtsi,Delhi,32000,31000,black,Bajaj Pulsar 180 DTS- i Standard,Delhi,31000,40000,black,1
+5276617,47089,5474,Bajaj Avenger 220,Delhi,14000,50000,black,Bajaj Pulsar 220F Standard,Delhi,14000,67000,black,0
+5289842,47093,9583,Bajaj Avenger 220,Delhi,2800,70000,blue,Bajaj Avenger 220 DTS- i,Delhi,2500,75000,blue,1
+5292224,47093,35321,Bajaj Avenger 220,Delhi,2800,70000,blue,Bajaj Avenger 220 DTS- i,Delhi,3000,60000,blue,1
+5309492,47100,12980,Bajaj Pulsar 150cc Dtsi,Delhi,50000,17000,black,Bajaj Pulsar 150 DTS- i Kick Start,Delhi,51000,18000,black,1
+5331030,47127,578,Bajaj Discover 150 S Disc,Delhi,11300,29000,black,Bajaj Pulsar 150 DTS- i,Delhi,12000,50000,black,0
+5387034,47214,13929,Hero Honda Cbz Xtreme Self Start,Delhi,40000,21000,red,Hero Honda Hunk Standard,Delhi,39000,33000,red,0
+5391434,47215,27199,Hero Honda Cbz Xtreme Self Start,Delhi,16500,28000,black,Hero Honda Karizma ZMR Standard,Delhi,17000,41000,black,0
+5409023,47221,6881,Bajaj Pulsar 150cc Dtsi,Delhi,60000,19000,black,Bajaj Pulsar 150 DTS- i Standard,Delhi,59000,20000,black,1
+5438851,47270,15766,Yamaha FZ S,Delhi,12500,50000,black,Yamaha FZ16 Standard,Delhi,13500,60000,black,0
+5442244,47415,17684,Bajaj Pulsar 180cc Dtsi,Delhi,22000,30000,blue,Bajaj Pulsar 180 DTS- i Standard,Delhi,21000,46000,blue,1
+5578456,47674,25523,Hero Honda Karizma Zmr Pgm Fi,Delhi,11000,64999,white,Hero Honda Hunk Standard,Delhi,12000,42000,silver,0
+5583865,47676,13781,Hero Honda Glamour,Delhi,40000,16000,blue,Hero Honda Glamour Drum Self,Delhi,40000,30000,black,0
+5683968,48006,14331,Honda Unicorn Spoke,Delhi,20000,20000,grey,Honda CB Unicorn GP E,Delhi,20000,18000,red,0
+5691740,48008,29113,Hero Honda Hunk,Delhi,38000,25000,black,Hero Honda CBZ extreme Self,Delhi,38000,20000,black,0
+5736598,48023,25829,Honda Unicorn Alloy,Delhi,37000,35999,black,Honda CB Unicorn Dazzler Standard,Delhi,37600,35000,red,0
+5752265,48028,20062,Bajaj Pulsar 220F Dtsi,Delhi,10200,63000,black,Bajaj Avenger 220 DTS- i,Delhi,10500,65000,red,0
+5775637,48095,29047,Hero Honda Hunk,Delhi,17000,31000,black,Hero Honda CBZ extreme Self,Delhi,16000,50000,black,0
+5790230,48100,11864,Bajaj Pulsar 150cc Dtsi,Delhi,37000,20000,black,Bajaj Pulsar 150 DTS- i Kick Start,Delhi,36000,28000,black,1
+5899225,36124,7052,Honda CBR 250R Standard,Mumbai,14000,110000,red,Yamaha FZ S Standard,Mumbai,14000,65,red,0
+5936562,36334,34340,Hero Honda Karizma Zmr Pgm Fi,Mumbai,6500,88000,red,Hero Karizma ZMR 2014 Standard,Mumbai,7300,95000,red,1
+5938729,36335,27261,Hero Honda Passion Plus,Mumbai,29000,26000,black,Hero Honda Passion PRO Standard,Mumbai,29500,33000,black,1
+5957846,36342,28293,Honda Unicorn Alloy,Mumbai,19000,60000,black,Honda CB Unicorn Standard,Mumbai,18000,60000,black,1
+5975405,36428,7375,Honda Unicorn Alloy,Mumbai,40000,22999,black,Honda CB Unicorn Standard,Mumbai,40000,35000,black,1
+5975599,36428,10240,Honda Unicorn Alloy,Mumbai,40000,22999,black,Honda CB Unicorn Standard,Mumbai,40000,30000,black,1
+5982185,36468,26255,Royal Enfield Thunderbird 500,Mumbai,7000,140000,black,Royal Enfield Bullet 500 Standard,Mumbai,6000,150000,green,0
+5986469,36472,10055,Bajaj Pulsar 150cc Dtsi,Mumbai,40000,24999,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,40000,25000,black,1
+5992624,36498,20376,Bajaj Pulsar 150cc Dtsi,Mumbai,22000,49000,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,21000,50000,red,0
+6000596,36528,17508,Bajaj Pulsar 150cc Dtsi,Mumbai,24000,14999,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,25000,13500,red,0
+6067681,36700,4875,Honda Unicorn Alloy,Mumbai,40000,39999,black,Honda CB Unicorn Standard,Mumbai,40000,45000,silver,0
+6111179,36872,4649,Bajaj Avenger 220,Mumbai,26000,35000,black,Bajaj Pulsar 220 Fi Standard,Mumbai,25000,50000,red,0
+6147842,37140,22853,Honda Dream Neo Self Drum Alloy,Mumbai,2000,45000,black,Honda Dream Yuga Electric Start/Alloy,Mumbai,2100,48000,blue,0
+6168933,37167,12859,Yamaha FZ S,Mumbai,16500,37000,red,Yamaha R1 Standard,Mumbai,16000,59000,red,0
+6170012,37167,28385,Yamaha FZ S,Mumbai,16500,37000,red,Yamaha FZ S Standard,Mumbai,16000,40000,black,0
+6181019,37171,30019,Royal Enfield Classic 350,Mumbai,25000,100000,silver,Royal Enfield Electra Twinspark Standard,Mumbai,25000,85000,black,0
+6226502,37252,19920,Royal Enfield Continental Gt 535,Mumbai,964,17700,yellow,Royal Enfield Continental GT (Cafe Racer) Standard,Mumbai,900,170000,red,0
+6230606,37255,1542,Bajaj Pulsar 150cc Dtsi,Mumbai,32000,29999,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,33000,28000,black,1
+6254773,37310,34010,Hero Motocorp Xtreme Sports Single Disc,Mumbai,2000,74000,black,Hero Xtreme Sports Front Disc Self,Mumbai,2000,75000,black,1
+6268495,37338,35329,Royal Enfield Classic Chrome,Mumbai,1500,160000,maroon,Royal Enfield Classic 500 Standard,Mumbai,1600,140000,silver,0
+6270458,37339,25564,Bajaj Pulsar 220F Dtsi,Mumbai,20000,54999,black,Bajaj Pulsar 220F Standard,Mumbai,20000,70000,black,1
+6281449,37553,27261,Hero Motocorp Passion Pro Kick Start,Mumbai,30000,20000,black,Hero Honda Passion PRO Standard,Mumbai,29500,33000,black,1
+6304709,37731,10055,Bajaj Pulsar 150cc Dtsi,Mumbai,40000,22000,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,40000,25000,black,1
+6345125,37747,4923,Honda Unicorn Alloy,Mumbai,15000,45000,black,Honda CB Unicorn Dazzler Deluxe,Mumbai,14000,75000,red,0
+6365681,37755,25914,Honda CB Dazzler Sports,Mumbai,25000,45000,black,Honda CB Unicorn Dazzler Standard,Mumbai,25000,50000,black,1
+6376146,37759,20399,Hero Honda Passion Plus,Mumbai,35000,26000,blue,Hero Honda Karizma ZMR Standard,Mumbai,34000,61000,black,0
+6431114,37819,28182,Bajaj Pulsar 200 NS,Mumbai,24586,48000,yellow,Bajaj Pulsar NS200 Standard,Mumbai,24000,75000,yellow,1
+6436108,37821,22129,Bajaj Discover 125 M Disc,Mumbai,14000,40000,blue,Bajaj Discover 125 ST Standard,Mumbai,13000,40000,blue,1
+6513688,38219,4164,Bajaj CT 100 Spoke,Mumbai,14000,15000,red,Bajaj Ct 100,Mumbai,15000,35000,red,1
+6516479,38220,4851,Bajaj Pulsar 150cc Dtsi,Mumbai,27000,20999,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,28000,20000,red,0
+6555089,38234,11682,Honda Unicorn Alloy,Mumbai,35000,34999,grey,Honda CB Unicorn GP E,Mumbai,36000,30000,red,0
+6590592,38247,13672,Bajaj Pulsar 220F Dtsi,Mumbai,30000,24999,black,Bajaj Pulsar 220 DTS-i Standard,Mumbai,30000,38000,silver,0
+6637673,38490,25789,Royal Enfield Bullet 500,Mumbai,2700,150000,black,Royal Enfield Thunderbird 500 Standard,Mumbai,1700,175000,Marine,0
+6637940,38490,29515,Royal Enfield Bullet 500,Mumbai,2700,150000,black,Royal Enfield Bullet 500 Standard,Mumbai,2200,149000,black,1
+6747169,38850,34818,Bajaj Pulsar 200 NS,Mumbai,35000,55000,blue,Bajaj Pulsar 200 Standard,Mumbai,35000,58000,yellow,0
+6755334,38853,34905,Bajaj Pulsar 135,Mumbai,35000,26999,black,Bajaj Pulsar 135 LS Standard,Mumbai,36000,20000,black,1
+6758039,38854,34742,Bajaj Pulsar 150cc Dtsi,Mumbai,5000,23000,blue,Bajaj Pulsar 150 Kick Start,Mumbai,4000,20000,black,0
+6816549,38973,16675,Bajaj Discover 125 M Drum,Mumbai,20015,24999,black,Bajaj Xcd 125 Self,Mumbai,20000,30000,red,0
+6827550,38979,18555,Bajaj Pulsar 200 NS ABS,Mumbai,12000,67999,yellow,Bajaj Pulsar NS200 Standard,Mumbai,11000,65000,red,0
+6827648,38979,20199,Bajaj Pulsar 200 NS ABS,Mumbai,12000,67999,yellow,Bajaj Pulsar NS200 Standard,Mumbai,11000,70000,black,0
+6873395,39240,12741,Honda Stunner CBF Self Disc Alloy,Mumbai,29000,36000,maroon,Honda CBF Stunner FI,Mumbai,30000,45000,maroon,1
+6885999,39246,87,Yamaha Fazer Sport,Mumbai,15000,49999,blue,Yamaha Fazer Standard,Mumbai,15000,60000,black,0
+6919385,39464,9286,Bajaj Pulsar 200 NS,Mumbai,41000,32000,blue,Bajaj Pulsar 200 Standard,Mumbai,40000,33000,blue,1
+6939642,39472,26556,Hero Honda Karizma R,Mumbai,28000,24000,black,Hero Honda Glamour Drum Self,Mumbai,28000,30000,black,0
+6952982,39631,23067,Bajaj Pulsar 150cc Dtsi,Mumbai,28000,18000,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,29000,28000,black,1
+6985710,39844,24043,Yamaha FZ16,Mumbai,12500,50000,black,Yamaha FZ S Standard,Mumbai,13500,55000,Midnight Special,0
+7016333,39856,33663,Honda CB Trigger STD,Mumbai,28000,56999,black,Honda CB Unicorn Standard,Mumbai,28000,65000,red,0
+7022778,39859,9701,Bajaj Pulsar 150cc Dtsi,Mumbai,55000,12999,silver,Bajaj Pulsar 150 DTS- i Standard,Mumbai,54000,12000,red,0
+7073483,40046,33911,Royal Enfield Thunderbird 350,Mumbai,450,130000,Mehandi,Royal Enfield Classic 350 Standard,Mumbai,1150,123000,maroon,0
+7077392,40049,12688,Bajaj Pulsar 220F Dtsi,Mumbai,40000,50000,red,Bajaj Pulsar 220F Standard,Mumbai,39000,55000,green,0
+7119481,40346,30857,Yamaha Fazer Sport,Mumbai,18000,39999,blue,Yamaha FZ S Standard,Mumbai,18000,40000,black,0
+7128829,40350,9337,Honda Unicorn Spoke,Mumbai,40000,23000,grey,Honda CB Unicorn Standard,Mumbai,40000,30000,black,0
+7186791,40651,21546,Bajaj Pulsar 200 NS,Mumbai,11500,60999,black,Bajaj Pulsar NS200 Standard,Mumbai,12000,60000,black,1
+7417031,41335,7753,Bajaj Avenger 220,Mumbai,20000,77999,red,Bajaj Avenger 220 DTS- i,Mumbai,19000,65000,blue,0
+7442419,41501,20866,Bajaj Pulsar 150cc Dtsi,Mumbai,50000,16000,black,Bajaj Pulsar 150 Kick Start,Mumbai,50000,25000,black,1
+7442524,41501,22283,Bajaj Pulsar 150cc Dtsi,Mumbai,50000,16000,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,50000,32000,black,1
+7529599,41901,22798,Honda CB Trigger STD,Mumbai,5000,60000,black,Honda CB Unicorn Standard,Mumbai,5000,65000,red,0
+7614815,42038,34472,Bajaj Pulsar 150cc Dtsi,Mumbai,52500,25000,red,Bajaj Pulsar 150 DTS- i Kick Start,Mumbai,52500,25000,red,1
+7661601,42188,4875,Honda Unicorn Alloy,Mumbai,40000,32000,black,Honda CB Unicorn Standard,Mumbai,40000,45000,silver,0
+7673879,42192,24254,Yamaha FZ16,Mumbai,8700,51000,black,Yamaha FZ16 Standard,Mumbai,8000,50000,black,1
+7713584,42450,8775,Yamaha SZ S,Mumbai,16000,21999,grey,Yamaha FZ16 Standard,Mumbai,15000,50000,black,0
+7883628,43046,28604,Yamaha YZF R15,Mumbai,40000,41000,red,Yamaha FZ S Standard,Mumbai,40000,35000,red,0
+7914138,43137,35735,Hero Motocorp Passion Xpro Drum Self Cast,Mumbai,21000,38000,black,Hero Passion PRO Self Alloy,Mumbai,21500,35000,black,1
+7930029,43323,30702,Hero Honda Passion Pro,Mumbai,30000,28500,black,Hero Honda Karizma Standard,Mumbai,29500,45000,grey,0
+7949473,43352,35496,Royal Enfield Thunderbird 350,Mumbai,6000,100000,black,Royal Enfield Thunderbird 350 Standard,Mumbai,5000,145000,blue,0
+7990031,43518,32899,Royal Enfield Thunderbird 350,Mumbai,1840,120000,black,Royal Enfield Thunderbird 350 Disc Self,Mumbai,2000,125000,blue,0
+8018167,43816,7915,Hero Honda CBZ Disc,Mumbai,49000,30000,black,Hero Hunk Rear Disc Brake,Mumbai,48000,35000,black,0
+8032669,43821,21094,Honda CBR 150R Standard,Mumbai,27000,85000,black,Honda CB Unicorn Standard,Mumbai,26000,69000,black,0
+8108496,44204,15901,Yamaha FZ FI Version 2.0,Mumbai,30000,31999,red,Yamaha FZ S Standard,Mumbai,30000,45000,black,0
+8121349,44211,5846,Bajaj Discover 125 Disc,Mumbai,40000,20999,maroon,Bajaj Discover125 Drum Brake,Mumbai,40000,25000,black,0
+8184412,44646,12488,Honda Unicorn Alloy,Mumbai,22000,45000,silver,Honda CB Unicorn Standard,Mumbai,22054,62000,black,0
+8242568,44881,27234,Bajaj Pulsar 200 NS,Mumbai,8000,65000,black,Bajaj Pulsar NS200 Standard,Mumbai,9000,70000,blue,0
+8274526,44894,17601,Yamaha FZ S,Mumbai,39000,29000,red,Yamaha Fazer Standard,Mumbai,40000,40000,blue,0
+8386223,45319,20371,Hero Honda Passion Plus,Mumbai,40000,24000,blue,Hero Honda Passion Plus Drum,Mumbai,40000,20000,black,0
+8387142,45319,32802,Hero Honda Passion Plus,Mumbai,40000,24000,blue,Hero Passion PRO Kick Spoke,Mumbai,40000,17000,black,0
+8406397,45326,35148,TVS Apache RTR 180,Mumbai,24400,35000,white,TVS Apache RTR 180 Standard,Mumbai,24400,37000,white,1
+8439456,45574,4224,Bajaj Avenger 220,Mumbai,5013,56000,red,Bajaj Pulsar 220F Standard,Mumbai,4800,75000,blue,0
+8454718,45580,27147,Hero Honda Splendor Nxg,Mumbai,20000,20000,black,Hero Honda Glamour Alloy Drum Self,Mumbai,20000,25000,red,0
+8489203,45728,14433,Bajaj Avenger 220,Mumbai,5300,79999,red,Bajaj Avenger 220 DTS- i,Mumbai,6000,65000,black,0
+8503530,45733,24845,Bajaj Discover 150 S Drum,Mumbai,50000,19000,black,Bajaj Pulsar 150 Kick Start,Mumbai,50000,23000,red,0
+8513258,45737,8709,Hero Honda Karizma R,Mumbai,19000,57999,black,Hero Karizma R,Mumbai,18000,55000,white,0
+8521796,45740,13716,Hero Honda Karizma Zmr Pgm Fi,Mumbai,30000,45000,blue,Hero Honda CBZ extreme Self,Mumbai,30000,45000,black,0
+8591640,45950,2414,Hero Honda Hunk,Mumbai,50000,29999,red,Hero Hunk Rear Disc Brake,Mumbai,50000,32000,red,1
+8672665,46093,31637,Hero Honda Passion Pro,Mumbai,200,55000,black,Hero Passion X Pro Disc Self Alloy,Mumbai,70,50000,white,0
+8684898,46144,12559,Bajaj Pulsar 135,Mumbai,16000,28000,red,Bajaj Pulsar 135 LS Standard,Mumbai,17000,35000,red,1
+8719480,46379,2414,Hero Honda Hunk,Mumbai,50000,27000,silver,Hero Hunk Rear Disc Brake,Mumbai,50000,32000,red,0
+8727176,46382,33259,Hero Honda Cd Deluxe,Mumbai,15000,25000,black,Honda Activa Deluxe,Mumbai,14370,35000,black,0
+8735149,46385,30702,Hero Honda Passion Pro,Mumbai,29000,42998,black,Hero Honda Karizma Standard,Mumbai,29500,45000,grey,0
+8762438,46707,31855,Yamaha FZ16,Mumbai,40000,37000,black,Yamaha FZ S Standard,Mumbai,40000,55000,black,0
+8777490,46732,13871,Royal Enfield Classic 350,Mumbai,10500,110000,black,Royal Enfield Classic 350 Standard,Mumbai,9500,135000,black,1
+8788302,46736,12915,Honda CBR 250R Standard,Mumbai,26000,69999,red,Yamaha FZ S Standard,Mumbai,26000,50000,black,0
+8925469,47314,29592,Royal Enfield Bullet 350,Mumbai,1362,120000,silver,Royal Enfield Electra Twinspark Standard,Mumbai,1000,250000,orange,0
+8976014,47609,13326,Yamaha YZF R15 Version 1.0,Mumbai,22000,55000,blue,Yamaha YZF R15 V1,Mumbai,21000,65000,blue,1
+8991039,47615,33490,Hero Honda  HF Dawn,Mumbai,50000,10000,black,Hero Honda Karizma Standard,Mumbai,50000,30000,black,0
+9034554,47878,33465,Yamaha FZ S,Mumbai,30000,39000,black,Yamaha SZ R Standard,Mumbai,30000,27000,bule,0
+9041077,47881,10758,Bajaj Pulsar 150cc Dtsi,Mumbai,40000,24999,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,40000,25000,black,1
+9055538,47887,22961,Hero Honda Karizma R,Mumbai,46000,22000,black,Hero Honda Karizma Standard,Mumbai,46000,35000,black,1
+9059965,47889,8433,Honda Unicorn Alloy,Mumbai,30000,28000,blue,Honda CB Unicorn GP E,Mumbai,30000,38000,red,0
+9064687,47890,35658,Hero Honda Karizma R,Mumbai,13000,47000,black,Hero Honda Passion PRO Standard,Mumbai,13000,32500,black,0
+9074481,47894,21652,Honda Unicorn Alloy,Mumbai,60000,35000,black,Honda CB Unicorn Standard,Mumbai,61000,30000,grey,0
+9190326,48281,6061,Bajaj CT 100 Spoke,Mumbai,50000,16999,black,Bajaj Ct 100,Mumbai,50000,12000,black,1
+9251740,48471,27954,Bajaj Pulsar 150cc Dtsi,Mumbai,50000,15000,black,Bajaj Pulsar 150 DTS- i Standard,Mumbai,50000,35000,black,1
+9349977,48701,32189,Bajaj Pulsar 150cc Dtsi,Mumbai,50000,19499,silver,Bajaj Pulsar 150 DTS- i Standard,Mumbai,49000,18000,black,0
+9357994,36262,24214,Bajaj Pulsar 150cc Dtsi,Bangalore,61000,24999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,60000,40000,black,1
+9359080,36262,35258,Bajaj Pulsar 150cc Dtsi,Bangalore,61000,24999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,60000,31000,silver,0
+9404331,36279,29876,Bajaj Avenger 220,Bangalore,15000,61500,black,Bajaj Avenger 220 DTS- i,Bangalore,16000,56000,black,1
+9419327,36284,26683,Hero Honda Splendor Super,Bangalore,40000,24000,black,Hero Honda Splendor Standard,Bangalore,40600,25000,black,1
+9465223,36299,27363,Suzuki Gixxer SF Standard,Bangalore,6500,69500,blue,Yamaha Fazer Standard,Bangalore,5937,78000,green,0
+9477771,36304,30697,Royal Enfield Classic 350,Bangalore,6000,140000,silver,Royal Enfield Thunderbird 350 Disc Self,Bangalore,7000,130000,Lighting,0
+9480114,36305,22895,Royal Enfield Bullet 350,Bangalore,3400,120000,silver,Royal Enfield Continental GT (Cafe Racer) Standard,Bangalore,3500,205000,red,0
+9513159,36316,15956,Yamaha FZ16,Bangalore,5400,69500,red,Yamaha Ray Standard,Bangalore,5500,54000,black,0
+9514232,36316,28835,Yamaha FZ16,Bangalore,5400,69500,red,Yamaha Ray-Z Standard,Bangalore,5000,48000,black,0
+9567985,36521,13718,Bajaj Pulsar 150cc Dtsi,Bangalore,26900,41500,blue,Bajaj Pulsar 150 DTS- i Kick Start,Bangalore,27000,65000,black,0
+9595519,36659,14061,Yamaha SZ RR,Bangalore,17000,45999,black,Yamaha SZ R Standard,Bangalore,16000,60000,white,0
+9664563,36763,34253,Bajaj Pulsar 150cc Dtsi,Bangalore,80000,25000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,80000,21000,black,1
+9703779,36842,29507,Hero Honda Glamour,Bangalore,60000,21000,black,Hero Honda CBZ extreme Self,Bangalore,60000,30000,red,0
+9788415,36903,18214,Bajaj Avenger 220,Bangalore,22000,64999,blue,Bajaj Pulsar 220F Standard,Bangalore,22000,75000,blue,0
+9856980,37200,33169,Royal Enfield Bullet Electra Twinspark,Bangalore,8700,110000,silver,Royal Enfield Classic 350 Standard,Bangalore,9000,135000,silver,0
+9874447,37207,24139,Hero Honda Karizma R,Bangalore,22000,44000,black,Hero Honda Splendor Plus Drum,Bangalore,22000,37999,black,0
+9895663,37264,21993,Hero Honda Karizma R,Bangalore,19000,46999,black,Hero Honda Splendor Plus Drum,Bangalore,19000,30000,black,0
+9954383,37360,29569,Bajaj Avenger 220,Bangalore,11000,65000,black,Bajaj Avenger 220 DTS- i,Bangalore,10000,75000,black,1
+10058756,37787,33896,Yamaha FZ S,Bangalore,19000,60000,black,Yamaha FZ S Standard,Bangalore,18172,54000,black,1
+10094348,37835,22575,Bajaj Discover 125 M Drum,Bangalore,6000,50000,green,Bajaj Discover 125 ST Standard,Bangalore,7000,55000,black,0
+10104948,37839,2627,Bajaj Pulsar 180cc Dtsi,Bangalore,30000,34000,red,Bajaj Pulsar 180 DTS- i Standard,Bangalore,30000,55000,red,1
+10105130,37839,4988,Bajaj Pulsar 180cc Dtsi,Bangalore,30000,34000,red,Bajaj Pulsar 180 DTS- i Standard,Bangalore,30000,51000,black,0
+10173071,37894,13695,Bajaj Pulsar 150cc Dtsi,Bangalore,38000,27999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,38000,30000,black,1
+10183302,37897,26325,Bajaj Pulsar 150cc Dtsi,Bangalore,35000,14000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,36000,25000,black,1
+10210562,37909,23670,Bajaj Avenger 220,Bangalore,15000,60000,black,Bajaj Pulsar 220F Standard,Bangalore,15000,75000,black,0
+10341500,38435,17662,Bajaj Pulsar 150cc Dtsi,Bangalore,30000,49999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,29500,55000,black,1
+10342211,38435,26298,Bajaj Pulsar 150cc Dtsi,Bangalore,30000,49999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,30000,45000,red,0
+10394711,38455,32110,Honda CBR 250R Standard,Bangalore,25000,88999,silver,Yamaha FZ S Standard,Bangalore,24000,62000,black,0
+10454796,38608,20285,Bajaj Pulsar 135,Bangalore,30000,29999,black,Bajaj Pulsar 135 LS Standard,Bangalore,30000,37000,red,0
+10470432,38613,24858,Hero Honda Karizma R,Bangalore,54000,35999,yellow,Hero Honda Splendor Plus Drum,Bangalore,53000,25000,black,0
+10476742,38615,27222,Honda CBR 250R ABS,Bangalore,24000,100000,red,Honda CB Unicorn GP E,Bangalore,24000,45000,black,0
+10715118,39064,27282,Bajaj Pulsar 220F Dtsi,Bangalore,35000,54999,black,Bajaj Pulsar 220F Standard,Bangalore,35890,50000,black,1
+10716793,39068,10774,Bajaj Discover 100 T Drum,Bangalore,25000,27000,red,Bajaj Discover 100 4 Speed,Bangalore,26000,31000,red,1
+10755562,39213,34352,Yamaha Crux,Bangalore,13500,31000,Brown,Yamaha FZ S Standard,Bangalore,13500,67000,black,0
+10794529,39429,26699,Bajaj Pulsar 220F Dtsi,Bangalore,22000,74999,black,Bajaj Avenger 220 DTS- i,Bangalore,22280,75000,black,0
+10794825,39429,30027,Bajaj Pulsar 220F Dtsi,Bangalore,22000,74999,black,Bajaj Pulsar 220F Standard,Bangalore,22000,80000,black,1
+10967088,39872,7019,Yamaha SZ RR,Bangalore,9000,32999,black,Yamaha SZ R Standard,Bangalore,9500,57000,red,0
+10967183,39872,8227,Yamaha SZ RR,Bangalore,9000,32999,black,Yamaha FZ16 Standard,Bangalore,10000,50000,red,0
+11014493,39958,25919,KTM Duke 200,Bangalore,13000,130000,black,KTM Duke 200 Standard,Bangalore,14000,110000,orange,0
+11021137,39995,31623,Yamaha SZ RR,Bangalore,22000,43000,blue,Yamaha FZ S Standard,Bangalore,23000,62000,black,0
+11042579,40052,32067,Yamaha FZS FI Version 2.0,Bangalore,4500,89999,black,Yamaha FZ S Standard,Bangalore,5300,75000,black,0
+11043970,40053,12911,Yamaha SZ RR,Bangalore,25000,44000,red,Yamaha YZF R15 V1,Bangalore,25000,70000,black,0
+11044610,40053,20387,Yamaha SZ RR,Bangalore,25000,44000,red,Yamaha Fazer Standard,Bangalore,26000,60000,green,0
+11133179,40386,19673,Hero Honda Hunk,Bangalore,35000,35000,black,Hero Honda Passion Plus Drum,Bangalore,35000,35000,blue,0
+11151566,40392,20330,Bajaj Pulsar 150cc Dtsi,Bangalore,14000,65000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,14000,60000,black,1
+11153305,40402,4548,Bajaj Discover 125 M Drum,Bangalore,2700,40000,blue,Bajaj Discover 125 ST Standard,Bangalore,2700,58000,red,0
+11213568,40628,30609,Hero Honda Passion Pro,Bangalore,14000,39999,silver,Hero Honda Karizma ZMR Standard,Bangalore,14800,75000,white,0
+11255997,40643,26909,Yamaha FZS FI Version 2.0,Bangalore,20000,69999,blue,Yamaha YZF R15 V 2.0,Bangalore,20000,90000,limited edition,0
+11283492,40850,26719,Bajaj Pulsar 150cc Dtsi,Bangalore,61000,22000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,62000,25000,silver,0
+11366740,40878,34075,Yamaha FZ16,Bangalore,18000,44999,black,Yamaha FZ16 Standard,Bangalore,18000,45000,black,1
+11387262,40886,25116,Yamaha FZ FI Version 2.0,Bangalore,5700,79000,red,Yamaha FZ16 Standard,Bangalore,5500,70000,black,0
+11387907,40886,32067,Yamaha FZ FI Version 2.0,Bangalore,5700,79000,red,Yamaha FZ S Standard,Bangalore,5300,75000,black,0
+11390318,40887,25116,Yamaha FZ FI Version 2.0,Bangalore,5500,78999,red,Yamaha FZ16 Standard,Bangalore,5500,70000,black,0
+11403062,41011,30797,Bajaj Pulsar 150cc Dtsi,Bangalore,50000,24000,black,Bajaj Pulsar 150 Kick Start,Bangalore,51000,24000,silver,0
+11405119,41049,19126,Honda Unicorn Alloy,Bangalore,26000,59000,black,Honda CB Unicorn Standard,Bangalore,26000,45000,black,1
+11450118,41254,9370,Bajaj Platina 100 Alloy Wheel KS,Bangalore,35000,25000,black,Bajaj Platina Platina 100 Spoke Wheel,Bangalore,35000,22000,red,0
+11546301,41366,26675,Bajaj Avenger 220,Bangalore,5600,79999,black,Bajaj Avenger 220 DTS- i,Bangalore,6000,80000,black,1
+11713799,41710,19458,Royal Enfield Thunderbird 350,Bangalore,16000,90000,green,Royal Enfield Classic 350 Standard,Bangalore,17000,130000,black,0
+11893306,42154,10142,Bajaj Pulsar 150cc Dtsi,Bangalore,26000,34000,red,Bajaj Pulsar 150 DTS- i Standard,Bangalore,26000,29000,red,1
+11986381,42498,26909,Yamaha YZF R15 Version 2.0,Bangalore,20000,89999,red,Yamaha YZF R15 V 2.0,Bangalore,20000,90000,limited edition,0
+11987404,42500,1873,Yamaha YZF R15 Version 2.0,Bangalore,9200,84999,blue,Yamaha YZF R15 V 2.0,Bangalore,9000,110000,red,0
+12007605,42590,24896,Bajaj Pulsar 150cc Dtsi,Bangalore,60000,19999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,60000,33000,red,0
+12019331,42595,18618,Bajaj Pulsar 200 NS,Bangalore,40000,35000,black,Bajaj Pulsar 200 Standard,Bangalore,39000,30000,red,0
+12023612,42596,32517,Bajaj Pulsar 150cc Dtsi,Bangalore,29600,39999,red,Bajaj Pulsar 150 DTS- i Standard,Bangalore,30000,40000,black,0
+12043972,42604,21095,Honda Unicorn Alloy,Bangalore,50500,83000,black,Honda CB Unicorn GP E,Bangalore,50000,35000,grey,0
+12093711,42768,30752,Bajaj Pulsar 150cc Dtsi,Bangalore,47000,22999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,46000,25000,black,1
+12099591,42770,28558,Hero Honda Splendor Pro,Bangalore,6791,48999,black,Hero Honda Passion X Pro Standard,Bangalore,6770,45000,red,0
+12166539,42793,25085,Yamaha FZ16,Bangalore,10800,59999,black,Yamaha FZ16 Standard,Bangalore,9873,60000,red,0
+12166558,42793,25305,Yamaha FZ16,Bangalore,10800,59999,black,Yamaha Fazer Standard,Bangalore,10000,40000,white,0
+12172279,42849,20398,Bajaj Pulsar 150cc Dtsi,Bangalore,30000,31999,red,Bajaj Pulsar 150 DTS- i Standard,Bangalore,31000,35000,black,0
+12233295,42993,19126,Honda Unicorn Alloy,Bangalore,25000,38000,silver,Honda CB Unicorn Standard,Bangalore,26000,45000,black,0
+12269436,43006,13064,Yamaha Gladiator Rs,Bangalore,31600,25999,blue,Yamaha Gladiator DX,Bangalore,32500,35000,red,0
+12273796,43007,28749,Yamaha FZ S,Bangalore,13000,74999,red,Yamaha Fazer Standard,Bangalore,13000,80000,red,0
+12294820,43165,24338,Yamaha FZ16,Bangalore,7000,65000,black,Yamaha FZ S Standard,Bangalore,6500,85000,green,0
+12319347,43200,25206,Bajaj Pulsar 150cc Dtsi,Bangalore,75000,27999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,74500,32000,black,1
+12346707,43209,23700,Hero Honda Splendor Plus,Bangalore,15700,36000,black,Hero Honda Karizma ZMR Standard,Bangalore,16000,65000,black,0
+12350878,43210,35098,Hero Honda Passion Plus,Bangalore,29000,28500,blue,Hero Honda CBZ extreme Kick,Bangalore,30000,24000,black,0
+12403514,43387,8359,TVS Apache RTR 180,Bangalore,16600,60000,white,TVS Apache RTR 180 ABS ABS,Bangalore,17000,60000,white,1
+12443572,43402,12431,Honda CBR 250R Standard,Bangalore,23050,110000,red,Yamaha SZ R Standard,Bangalore,24000,50000,red,0
+12444075,43402,18155,Honda CBR 250R Standard,Bangalore,23050,110000,red,Honda CBR250R Sports Red-STD,Bangalore,24000,118000,red,1
+12445308,43402,32302,Honda CBR 250R Standard,Bangalore,23050,110000,red,Hero Maestro Standard,Bangalore,22500,37000,black,0
+12459662,43407,22191,Hero Honda Karizma R,Bangalore,20000,62999,black,Hero Honda Karizma Standard,Bangalore,19000,65000,red,0
+12499511,43441,23751,Bajaj Pulsar 150cc Dtsi,Bangalore,20000,28000,red,Bajaj Pulsar 150 DTS- i Standard,Bangalore,20000,36000,red,1
+12505199,43443,18214,Bajaj Pulsar 220F Dtsi,Bangalore,23000,65000,black,Bajaj Pulsar 220F Standard,Bangalore,22000,75000,blue,0
+12556459,43775,10143,Bajaj Pulsar 150cc Dtsi,Bangalore,30000,55000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,30000,50000,blue,0
+12576187,43784,26858,Hero Honda Karizma Zmr Pgm Fi,Bangalore,32000,60000,white,Hero Honda Splendor Plus Disc,Bangalore,31000,40000,blue,0
+12594531,43793,27009,Royal Enfield Thunderbird 350,Bangalore,21000,77000,black,Royal Enfield Electra Standard,Bangalore,20360,110000,black,0
+12653356,44233,34521,Honda CB Twister Self Drum Alloy,Bangalore,27000,30000,green,Honda CB Twister Disc/Electric start,Bangalore,27000,32000,red,0
+12661347,44236,22052,Honda Unicorn Alloy,Bangalore,50000,22000,black,Honda CB Unicorn Kick Start,Bangalore,51000,25000,black,1
+12695112,44337,23901,Bajaj Avenger 220,Bangalore,6000,84999,blue,Bajaj Pulsar 220F Standard,Bangalore,6000,85000,black,0
+12695828,44337,31657,Bajaj Avenger 220,Bangalore,6000,84999,blue,Bajaj Avenger 220 DTS- i,Bangalore,7000,78000,black,0
+12700843,44341,18918,Yamaha FZ16,Bangalore,45000,48000,black,Yamaha SZ X Standard,Bangalore,44000,35000,grey,0
+12713819,44387,28270,Bajaj Avenger 220,Bangalore,11000,64000,black,Bajaj Avenger 220 DTS- i,Bangalore,10000,75000,black,1
+12737510,44399,18828,TVS Victor 2015,Bangalore,70000,15000,black,TVS Victor Standard,Bangalore,70000,18000,black,1
+12809100,44626,33355,Yamaha YZF R15,Bangalore,21000,63000,black,Yamaha SZ R Standard,Bangalore,22000,35000,red,0
+12823937,44663,29294,Yamaha RX 135 STD,Bangalore,26000,37000,black,Yamaha RX135 Standard,Bangalore,25000,35000,maroon,0
+12840972,44839,13878,Bajaj Pulsar 150cc Dtsi,Bangalore,14000,48000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,15000,60000,black,1
+12847394,44841,17451,Bajaj Pulsar 180cc Dtsi,Bangalore,40000,40000,black,Bajaj Pulsar 180 DTS- i Standard,Bangalore,40000,55000,black,1
+12910186,44863,35576,Royal Enfield Bullet Electra,Bangalore,35000,100000,red,Royal Enfield Thunderbird 350 Disc Self,Bangalore,36000,95000,black,0
+12979756,45099,29042,Yamaha Fazer Fi Version 2.0,Bangalore,29000,39999,red,Yamaha Fazer Standard,Bangalore,28000,40000,blue,0
+13047734,45266,35846,Bajaj Avenger 220,Bangalore,30000,56000,blue,Bajaj Avenger 220 DTS- i,Bangalore,31000,70000,black,0
+13074904,45277,32776,Bajaj Pulsar 150cc Dtsi,Bangalore,80000,20000,blue,Bajaj Pulsar 150 Kick Start,Bangalore,80000,22000,black,0
+13078816,45279,7397,Bajaj Pulsar 150cc Dtsi,Bangalore,50000,20000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,50000,21000,black,1
+13141491,45300,26126,Yamaha Sz R,Bangalore,19000,44000,red,Yamaha FZ16 Standard,Bangalore,19000,55000,black,0
+13175811,45546,33312,Bajaj Avenger 220,Bangalore,4300,88000,red,Bajaj Avenger 220 DTS- i,Bangalore,4000,80000,bllu,0
+13226241,45565,16395,Yamaha FZ16,Bangalore,20000,60000,black,Yamaha FZ16 Standard,Bangalore,19000,60000,black,1
+13254335,45686,23629,Bajaj Pulsar 150cc Dtsi,Bangalore,9500,77000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,8700,68000,black,1
+13272167,45693,17347,Hero Honda Passion Pro,Bangalore,18000,41999,red,Hero Honda Super Splendor Disc Kick,Bangalore,17000,46000,black,0
+13413310,45927,24251,Yamaha FZ FI Version 2.0,Bangalore,27500,44999,red,Yamaha FZ S Standard,Bangalore,26918,55000,green,0
+13418395,45929,11872,Yamaha YZF R15 Version 2.0,Bangalore,12000,84999,black,Yamaha YZF R15 V 2.0,Bangalore,11000,110000,red,0
+13563130,46068,25063,Yamaha FZ S,Bangalore,29000,50000,black,Yamaha FZ16 Standard,Bangalore,30000,49000,black,0
+13563141,46068,25221,Yamaha FZ S,Bangalore,29000,50000,black,Yamaha Fazer Standard,Bangalore,29000,62000,black,0
+13587200,46395,20380,Yamaha Sz R,Bangalore,17000,36000,red,Yamaha Fazer Standard,Bangalore,17000,50000,red,0
+13597068,46398,29042,Yamaha FZ16,Bangalore,28000,44999,black,Yamaha Fazer Standard,Bangalore,28000,40000,blue,0
+13606985,46401,35856,Royal Enfield Thunderbird 350,Bangalore,8900,13499,black,Royal Enfield Thunderbird 350 Disc,Bangalore,9000,140000,grey,0
+13613077,46403,35698,Royal Enfield Bullet Electra Twinspark,Bangalore,8900,100000,black,Royal Enfield Thunderbird 350 Disc,Bangalore,8800,140000,black,0
+13642108,46415,19092,Bajaj Pulsar 150cc Dtsi,Bangalore,38900,39999,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,38000,40000,black,1
+13692689,46520,2577,Bajaj Pulsar 150cc Dtsi,Bangalore,75000,26000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,75000,20000,blue,0
+13699980,46554,17048,Bajaj Pulsar 150cc Dtsi,Bangalore,57000,30000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,57000,40000,red,0
+13753024,46760,29928,Yamaha FZ S,Bangalore,19000,50000,red,Yamaha FZ16 Standard,Bangalore,20000,57000,black,0
+13862765,47023,26909,Yamaha SZ RR Version 2.0,Bangalore,21000,34999,black,Yamaha YZF R15 V 2.0,Bangalore,20000,90000,limited edition,0
+13910629,47040,14512,Hero Honda Karizma R,Bangalore,43000,45000,silver,Hero Honda Splendor NXG Standard,Bangalore,43000,32000,black,0
+14011940,47467,19872,Bajaj Pulsar 150cc Dtsi,Bangalore,25750,50000,red,Bajaj Pulsar 150 Kick Start,Bangalore,26000,55000,red,1
+14085606,47511,24074,Bajaj Pulsar 150cc Dtsi,Bangalore,35501,40000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,36000,29999,black,1
+14091782,47522,24769,Bajaj Pulsar 150cc Dtsi,Bangalore,35501,40000,black,Bajaj Pulsar 150 DTS- i Standard,Bangalore,35000,35000,black,1
+14142963,47651,15434,Bajaj Pulsar 150cc Dtsi,Bangalore,67000,28999,red,Bajaj Pulsar 150 DTS- i Standard,Bangalore,68000,20000,black,0
+14192023,47734,17347,Hero Honda Hunk,Bangalore,18000,60000,black,Hero Honda Super Splendor Disc Kick,Bangalore,17000,46000,black,0
+14258729,47935,11125,Hero Honda Karizma R,Bangalore,9000,79999,black,Hero Karizma R,Bangalore,10000,80000,black,1
+14416433,48314,32348,Bajaj Pulsar RS 200 Standard,Bangalore,800,120000,yellow,KTM Duke 200 Standard,Bangalore,500,165000,black,0
+14422338,48316,30361,Bajaj Pulsar 150cc Dtsi,Bangalore,80000,25000,black,Bajaj Pulsar 150 DTS- i Kick Start,Bangalore,80000,26000,red,0
+14434459,48717,29407,Yamaha FZ16,Bangalore,16000,58000,red,Yamaha FZ S Standard,Bangalore,15000,70000,black,0
+14473203,48730,17582,TVS Apache RTR 180 ABS,Bangalore,21000,79000,white,TVS Apache RTR 180 Standard,Bangalore,22000,50000,yellow,0
+14489110,48735,25230,Royal Enfield Classic Chrome,Bangalore,2700,160000,black,Royal Enfield Continental GT (Cafe Racer) Standard,Bangalore,2000,200000,red,0
