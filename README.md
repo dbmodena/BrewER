@@ -1,7 +1,17 @@
 # BrewER
-Giovanni Simonini, Luca Zecchini, Sonia Bergamaschi, Felix Naumann: "Entity Resolution On-Demand". Proceedings of the VLDB Endowment (PVLDB), vol. 15, n. 7, pp. 1506-1518 (2022). https://doi.org/10.14778/3523210.3523226
 
-Code written using Python 3.
+BrewER is our new open-source framework designed to perform <b>entity resolution on-demand</b>. All code is written using Python 3. For all details about this approach, you can check out our <a href="https://doi.org/10.14778/3523210.3523226">reference research paper</a>:
+
+    @article{brewer,
+      author    = {Giovanni {Simonini} and Luca {Zecchini} and Sonia {Bergamaschi} and Felix {Naumann}},
+      title     = {{Entity Resolution On-Demand}},
+      journal   = {{Proceedings of the VLDB Endowment (PVLDB)}},
+      volume    = {15},
+      number    = {7},
+      pages     = {1506--1518},
+      year      = {2022},
+      doi       = {10.14778/3523210.3523226}
+    }
 
 ### How to use BrewER (to be updated)
 
